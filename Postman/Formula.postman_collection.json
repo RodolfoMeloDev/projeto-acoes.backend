@@ -1,0 +1,289 @@
+{
+	"info": {
+		"_postman_id": "c24b2de1-082e-449f-9d55-e3f96772a093",
+		"name": "Formula",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "GetByGreenBlatt",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6WyJST0RPTExPUEVTQEdNQUlMLkNPTSIsInJvZG9sbG9wZXNAZ21haWwuY29tIl0sImp0aSI6IjQ0ZTY5NThiLTc2NWMtNGIyMC1iYTc5LTBmM2FhOGVhNTcyNCIsIm5iZiI6MTY2OTkwMzkxOCwiZXhwIjoxNjY5OTE4MzE4LCJpYXQiOjE2Njk5MDM5MTgsImlzcyI6Ind3dy5hdmFsaWFuZG9hY29lcy5jb20uYnIiLCJhdWQiOiJ3d3cuYXZhbGlhbmRvYWNvZXMuY29tLmJyL1VzZXIifQ.SP-dsG0HMKJXHVO5-SYs9XWyqcog3FLOS3Bl2mJPbqGRDN3aYrEgeNABonMcQR76sxVZb7-HzxIkQdaZo6EAcFddMbFR48_N0jPQGtRJAA0UJfzcNHLOHGWoj6tbP6Z52jZWbLzCT2Zr0D6E1BboVSg2h1HpGL7xAy0RGW9-x_FHM7GEuGEvGk8Vu4ZpdOeMM0hT-xAyg3AAcFZHubJe_lqoxKJv3-2p4TDlGxRz8C7gByIvXH0GJNzy7fBC3rONxP8oA6C887Tva89Qay5wS--D9JUbg25qa1RIxlNywdAUbhBAcW6LDgWfOn6SxiHcCZD_Wi-VpFnwuUiTj-glEg",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"fileImportId\": 23,\r\n  \"removeItemsJudicialRecovery\": true,\r\n  \"removeLowerLiquidity\": true,\r\n  \"removeItemsWithZeroValue\": true,\r\n  \"removeItemsWithNegativeValue\": true,\r\n  \"minimumLiquidity\": 150000,\r\n  \"minimumPriceByProfit\": 0,\r\n  \"maximumPriceByProfit\": 15\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7206/api/Formulas/Greenblatt",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7206",
+					"path": [
+						"api",
+						"Formulas",
+						"Greenblatt"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetByPriceAndProfit",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6WyJST0RPTExPUEVTQEdNQUlMLkNPTSIsInJvZG9sbG9wZXNAZ21haWwuY29tIl0sImp0aSI6IjQ0ZTY5NThiLTc2NWMtNGIyMC1iYTc5LTBmM2FhOGVhNTcyNCIsIm5iZiI6MTY2OTkwMzkxOCwiZXhwIjoxNjY5OTE4MzE4LCJpYXQiOjE2Njk5MDM5MTgsImlzcyI6Ind3dy5hdmFsaWFuZG9hY29lcy5jb20uYnIiLCJhdWQiOiJ3d3cuYXZhbGlhbmRvYWNvZXMuY29tLmJyL1VzZXIifQ.SP-dsG0HMKJXHVO5-SYs9XWyqcog3FLOS3Bl2mJPbqGRDN3aYrEgeNABonMcQR76sxVZb7-HzxIkQdaZo6EAcFddMbFR48_N0jPQGtRJAA0UJfzcNHLOHGWoj6tbP6Z52jZWbLzCT2Zr0D6E1BboVSg2h1HpGL7xAy0RGW9-x_FHM7GEuGEvGk8Vu4ZpdOeMM0hT-xAyg3AAcFZHubJe_lqoxKJv3-2p4TDlGxRz8C7gByIvXH0GJNzy7fBC3rONxP8oA6C887Tva89Qay5wS--D9JUbg25qa1RIxlNywdAUbhBAcW6LDgWfOn6SxiHcCZD_Wi-VpFnwuUiTj-glEg",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"fileImportId\": 23,\r\n  \"removeItemsJudicialRecovery\": true,\r\n  \"removeLowerLiquidity\": true,\r\n  \"removeItemsWithZeroValue\": true,\r\n  \"removeItemsWithNegativeValue\": true,\r\n  \"minimumLiquidity\": 150000,\r\n  \"minimumPriceByProfit\": 0,\r\n  \"maximumPriceByProfit\": 15\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7206/api/Formulas/PriceAndProfit",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7206",
+					"path": [
+						"api",
+						"Formulas",
+						"PriceAndProfit"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetByEvEbit",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6WyJST0RPTExPUEVTQEdNQUlMLkNPTSIsInJvZG9sbG9wZXNAZ21haWwuY29tIl0sImp0aSI6IjQ0ZTY5NThiLTc2NWMtNGIyMC1iYTc5LTBmM2FhOGVhNTcyNCIsIm5iZiI6MTY2OTkwMzkxOCwiZXhwIjoxNjY5OTE4MzE4LCJpYXQiOjE2Njk5MDM5MTgsImlzcyI6Ind3dy5hdmFsaWFuZG9hY29lcy5jb20uYnIiLCJhdWQiOiJ3d3cuYXZhbGlhbmRvYWNvZXMuY29tLmJyL1VzZXIifQ.SP-dsG0HMKJXHVO5-SYs9XWyqcog3FLOS3Bl2mJPbqGRDN3aYrEgeNABonMcQR76sxVZb7-HzxIkQdaZo6EAcFddMbFR48_N0jPQGtRJAA0UJfzcNHLOHGWoj6tbP6Z52jZWbLzCT2Zr0D6E1BboVSg2h1HpGL7xAy0RGW9-x_FHM7GEuGEvGk8Vu4ZpdOeMM0hT-xAyg3AAcFZHubJe_lqoxKJv3-2p4TDlGxRz8C7gByIvXH0GJNzy7fBC3rONxP8oA6C887Tva89Qay5wS--D9JUbg25qa1RIxlNywdAUbhBAcW6LDgWfOn6SxiHcCZD_Wi-VpFnwuUiTj-glEg",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"fileImportId\": 1,\r\n  \"removeItemsJudicialRecovery\": true,\r\n  \"removeLowerLiquidity\": true,\r\n  \"removeItemsWithZeroValue\": true,\r\n  \"removeItemsWithNegativeValue\": true,\r\n  \"minimumLiquidity\": 150000,\r\n  \"minimumPriceByProfit\": 0,\r\n  \"maximumPriceByProfit\": 15\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7206/api/Formulas/EvEbit",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7206",
+					"path": [
+						"api",
+						"Formulas",
+						"EvEbit"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetByValuetionByBazin",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6WyJST0RPTExPUEVTQEdNQUlMLkNPTSIsInJvZG9sbG9wZXNAZ21haWwuY29tIl0sImp0aSI6IjQ0ZTY5NThiLTc2NWMtNGIyMC1iYTc5LTBmM2FhOGVhNTcyNCIsIm5iZiI6MTY2OTkwMzkxOCwiZXhwIjoxNjY5OTE4MzE4LCJpYXQiOjE2Njk5MDM5MTgsImlzcyI6Ind3dy5hdmFsaWFuZG9hY29lcy5jb20uYnIiLCJhdWQiOiJ3d3cuYXZhbGlhbmRvYWNvZXMuY29tLmJyL1VzZXIifQ.SP-dsG0HMKJXHVO5-SYs9XWyqcog3FLOS3Bl2mJPbqGRDN3aYrEgeNABonMcQR76sxVZb7-HzxIkQdaZo6EAcFddMbFR48_N0jPQGtRJAA0UJfzcNHLOHGWoj6tbP6Z52jZWbLzCT2Zr0D6E1BboVSg2h1HpGL7xAy0RGW9-x_FHM7GEuGEvGk8Vu4ZpdOeMM0hT-xAyg3AAcFZHubJe_lqoxKJv3-2p4TDlGxRz8C7gByIvXH0GJNzy7fBC3rONxP8oA6C887Tva89Qay5wS--D9JUbg25qa1RIxlNywdAUbhBAcW6LDgWfOn6SxiHcCZD_Wi-VpFnwuUiTj-glEg",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"fileImportId\": 1,\r\n  \"removeItemsJudicialRecovery\": true,\r\n  \"removeLowerLiquidity\": true,\r\n  \"removeItemsWithZeroValue\": true,\r\n  \"removeItemsWithNegativeValue\": true,\r\n  \"minimumLiquidity\": null,\r\n  \"minimunEvEbit\": null,\r\n  \"maximumEvEbit\": null,\r\n  \"minimumPriceByProfit\": null,\r\n  \"maximumPriceByProfit\": null,\r\n  \"minimumEbitMargem\": null,\r\n  \"maximumEbitMargem\": null,\r\n  \"marketRisk\": null\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7206/api/Formulas/ValuetionByBazin",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7206",
+					"path": [
+						"api",
+						"Formulas",
+						"ValuetionByBazin"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetByValuetionByGraham",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6WyJST0RPTExPUEVTQEdNQUlMLkNPTSIsInJvZG9sbG9wZXNAZ21haWwuY29tIl0sImp0aSI6IjQ0ZTY5NThiLTc2NWMtNGIyMC1iYTc5LTBmM2FhOGVhNTcyNCIsIm5iZiI6MTY2OTkwMzkxOCwiZXhwIjoxNjY5OTE4MzE4LCJpYXQiOjE2Njk5MDM5MTgsImlzcyI6Ind3dy5hdmFsaWFuZG9hY29lcy5jb20uYnIiLCJhdWQiOiJ3d3cuYXZhbGlhbmRvYWNvZXMuY29tLmJyL1VzZXIifQ.SP-dsG0HMKJXHVO5-SYs9XWyqcog3FLOS3Bl2mJPbqGRDN3aYrEgeNABonMcQR76sxVZb7-HzxIkQdaZo6EAcFddMbFR48_N0jPQGtRJAA0UJfzcNHLOHGWoj6tbP6Z52jZWbLzCT2Zr0D6E1BboVSg2h1HpGL7xAy0RGW9-x_FHM7GEuGEvGk8Vu4ZpdOeMM0hT-xAyg3AAcFZHubJe_lqoxKJv3-2p4TDlGxRz8C7gByIvXH0GJNzy7fBC3rONxP8oA6C887Tva89Qay5wS--D9JUbg25qa1RIxlNywdAUbhBAcW6LDgWfOn6SxiHcCZD_Wi-VpFnwuUiTj-glEg",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"fileImportId\": 1,\r\n  \"removeItemsJudicialRecovery\": true,\r\n  \"removeLowerLiquidity\": true,\r\n  \"removeItemsWithZeroValue\": true,\r\n  \"removeItemsWithNegativeValue\": true,\r\n  \"minimumLiquidity\": null,\r\n  \"minimunEvEbit\": null,\r\n  \"maximumEvEbit\": null,\r\n  \"minimumPriceByProfit\": null,\r\n  \"maximumPriceByProfit\": null,\r\n  \"minimumEbitMargem\": null,\r\n  \"maximumEbitMargem\": null,\r\n  \"marketRisk\": null\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7206/api/Formulas/ValuetionByGraham",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7206",
+					"path": [
+						"api",
+						"Formulas",
+						"ValuetionByGraham"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetByValuetionByGordon",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6WyJST0RPTExPUEVTQEdNQUlMLkNPTSIsInJvZG9sbG9wZXNAZ21haWwuY29tIl0sImp0aSI6IjQ0ZTY5NThiLTc2NWMtNGIyMC1iYTc5LTBmM2FhOGVhNTcyNCIsIm5iZiI6MTY2OTkwMzkxOCwiZXhwIjoxNjY5OTE4MzE4LCJpYXQiOjE2Njk5MDM5MTgsImlzcyI6Ind3dy5hdmFsaWFuZG9hY29lcy5jb20uYnIiLCJhdWQiOiJ3d3cuYXZhbGlhbmRvYWNvZXMuY29tLmJyL1VzZXIifQ.SP-dsG0HMKJXHVO5-SYs9XWyqcog3FLOS3Bl2mJPbqGRDN3aYrEgeNABonMcQR76sxVZb7-HzxIkQdaZo6EAcFddMbFR48_N0jPQGtRJAA0UJfzcNHLOHGWoj6tbP6Z52jZWbLzCT2Zr0D6E1BboVSg2h1HpGL7xAy0RGW9-x_FHM7GEuGEvGk8Vu4ZpdOeMM0hT-xAyg3AAcFZHubJe_lqoxKJv3-2p4TDlGxRz8C7gByIvXH0GJNzy7fBC3rONxP8oA6C887Tva89Qay5wS--D9JUbg25qa1RIxlNywdAUbhBAcW6LDgWfOn6SxiHcCZD_Wi-VpFnwuUiTj-glEg",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"fileImportId\": 1,\r\n  \"removeItemsJudicialRecovery\": true,\r\n  \"removeLowerLiquidity\": true,\r\n  \"removeItemsWithZeroValue\": true,\r\n  \"removeItemsWithNegativeValue\": true,\r\n  \"minimumLiquidity\": null,\r\n  \"minimunEvEbit\": null,\r\n  \"maximumEvEbit\": null,\r\n  \"minimumPriceByProfit\": null,\r\n  \"maximumPriceByProfit\": null,\r\n  \"minimumEbitMargem\": null,\r\n  \"maximumEbitMargem\": null,\r\n  \"marketRisk\": 13.31\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7206/api/Formulas/ValuetionByGordon",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7206",
+					"path": [
+						"api",
+						"Formulas",
+						"ValuetionByGordon"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetByTickersAnalisys",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6WyJST0RPTExPUEVTQEdNQUlMLkNPTSIsInJvZG9sbG9wZXNAZ21haWwuY29tIl0sImp0aSI6IjQ0ZTY5NThiLTc2NWMtNGIyMC1iYTc5LTBmM2FhOGVhNTcyNCIsIm5iZiI6MTY2OTkwMzkxOCwiZXhwIjoxNjY5OTE4MzE4LCJpYXQiOjE2Njk5MDM5MTgsImlzcyI6Ind3dy5hdmFsaWFuZG9hY29lcy5jb20uYnIiLCJhdWQiOiJ3d3cuYXZhbGlhbmRvYWNvZXMuY29tLmJyL1VzZXIifQ.SP-dsG0HMKJXHVO5-SYs9XWyqcog3FLOS3Bl2mJPbqGRDN3aYrEgeNABonMcQR76sxVZb7-HzxIkQdaZo6EAcFddMbFR48_N0jPQGtRJAA0UJfzcNHLOHGWoj6tbP6Z52jZWbLzCT2Zr0D6E1BboVSg2h1HpGL7xAy0RGW9-x_FHM7GEuGEvGk8Vu4ZpdOeMM0hT-xAyg3AAcFZHubJe_lqoxKJv3-2p4TDlGxRz8C7gByIvXH0GJNzy7fBC3rONxP8oA6C887Tva89Qay5wS--D9JUbg25qa1RIxlNywdAUbhBAcW6LDgWfOn6SxiHcCZD_Wi-VpFnwuUiTj-glEg",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"fileImportId\": 4,\r\n  \"removeItemsJudicialRecovery\": true,\r\n  \"removeLowerLiquidity\": true,\r\n  \"removeItemsWithZeroValue\": true,\r\n  \"removeItemsWithNegativeValue\": true,\r\n  \"minimumLiquidity\": 150000,\r\n  \"marketRisk\": 14.63,\r\n  \"ticker\": \"wizs3\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7206/api/Formulas/TickersAnalisys",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7206",
+					"path": [
+						"api",
+						"Formulas",
+						"TickersAnalisys"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

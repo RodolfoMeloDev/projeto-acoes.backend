@@ -1,0 +1,139 @@
+{
+	"info": {
+		"_postman_id": "51362f2a-cf91-4e05-b1ed-ee8b208c54ef",
+		"name": "User",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Insert",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"name\": \"Rodolfo Lopes de Melo\",\r\n  \"login\": \"rodollopes@gmail.com\",\r\n  \"password\": \"1234\",\r\n  \"nickName\": \"Rodolfo\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7206/api/Users",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7206",
+					"path": [
+						"api",
+						"Users"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Update",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6WyJSTE9QRVMiLCJybG9wZXMiXSwianRpIjoiMTZjNzk4YTEtZWUxMy00MGRhLWE2YWUtZjJhZmFjOTljZjc3IiwibmJmIjoxNjY0ODI4Mjg1LCJleHAiOjE2NjQ4NDI2ODUsImlhdCI6MTY2NDgyODI4NSwiaXNzIjoid3d3LmF2YWxpYW5kb2Fjb2VzLmNvbS5iciIsImF1ZCI6Ind3dy5hdmFsaWFuZG9hY29lcy5jb20uYnIvVXNlciJ9.Pwm0PaIpYVRP102Jvq3aFnRkPrI_wa4rSdEOuIy3w6pZtW3JB2gAtXQFCWeqivfviPanmlf4H9avm3HFT9dfD_fDyhOT0dEF0aOOV1taAYYiiPBXldm_PfE2Ri8q1stLisf6nfe26B1VwUrk3IQ10_1Vd3_tAkWlvDie9G5M7Xc8TqpQzZtUOKGW_pMKoVpxBRGM-8ZVufq8bSL6QOMtnQkepEsb0kVSeIfCuQKIa0ebAjWwtToLbQPeb_F7FFdgKOzKgBEd0vDA4-9lPZ8h9FtElMGZf_MrfCzHwpqLH0ToDe1fZXIkPbjQZmJMbHvhVWnRiYG0J3RjfTkWEUfddA",
+							"type": "string"
+						}
+					]
+				},
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"id\": 1,\r\n  \"login\": \"RLOPES\",\r\n  \"name\": \"Rodolfo Lopes\",\r\n  \"password\": \"1234\",\r\n  \"active\": true\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7206/api/Users",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7206",
+					"path": [
+						"api",
+						"Users"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6WyJSTE9QRVMiLCJybG9wZXMiXSwianRpIjoiMTZjNzk4YTEtZWUxMy00MGRhLWE2YWUtZjJhZmFjOTljZjc3IiwibmJmIjoxNjY0ODI4Mjg1LCJleHAiOjE2NjQ4NDI2ODUsImlhdCI6MTY2NDgyODI4NSwiaXNzIjoid3d3LmF2YWxpYW5kb2Fjb2VzLmNvbS5iciIsImF1ZCI6Ind3dy5hdmFsaWFuZG9hY29lcy5jb20uYnIvVXNlciJ9.Pwm0PaIpYVRP102Jvq3aFnRkPrI_wa4rSdEOuIy3w6pZtW3JB2gAtXQFCWeqivfviPanmlf4H9avm3HFT9dfD_fDyhOT0dEF0aOOV1taAYYiiPBXldm_PfE2Ri8q1stLisf6nfe26B1VwUrk3IQ10_1Vd3_tAkWlvDie9G5M7Xc8TqpQzZtUOKGW_pMKoVpxBRGM-8ZVufq8bSL6QOMtnQkepEsb0kVSeIfCuQKIa0ebAjWwtToLbQPeb_F7FFdgKOzKgBEd0vDA4-9lPZ8h9FtElMGZf_MrfCzHwpqLH0ToDe1fZXIkPbjQZmJMbHvhVWnRiYG0J3RjfTkWEUfddA",
+							"type": "string"
+						}
+					]
+				},
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7206/api/Users/3",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7206",
+					"path": [
+						"api",
+						"Users",
+						"3"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetByLogin",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6WyJST0RPTExPUEVTQEdNQUlMLkNPTSIsInJvZG9sbG9wZXNAZ21haWwuY29tIl0sImp0aSI6ImVmOTg4ODk4LTQwYmYtNDc2Zi04OGY5LTY2YjZiMTU4ZmY1MSIsIm5iZiI6MTY2Njk3ODEwOSwiZXhwIjoxNjY2OTkyNTA5LCJpYXQiOjE2NjY5NzgxMDksImlzcyI6Ind3dy5hdmFsaWFuZG9hY29lcy5jb20uYnIiLCJhdWQiOiJ3d3cuYXZhbGlhbmRvYWNvZXMuY29tLmJyL1VzZXIifQ.jVcjR4O6PBMpxSK1NmMnDOY1LLgY_y37xy-kYrxHN4pSPaOkoVGWVYMoCtnukKwGCOlxFeHHW5vhe_4l5lndydBN8W-XVjPQJxA5ntDVLjEa6oTMkJjsDkbUCGZDA12InGSxq2FO5sKLr1qUZuN47uZ9h8XuPk6FAVfMmqiAj0X2-zWtIfe8IqYEwY0RqnK4JowILNHi1U07_eljlPNvTpMalFnHmYVo5tzHEGyrQf8a3M_wwXI7EhMvmfou6qUfjXKsjhF2yZsoARR2djGJZrbGixZbxfuFlUdcUC8l3hqPvZZ3cTI21Z1scBKVff35Qlhgpe0AeHEX8EppyGp0pw",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7206/api/Users/rodollopes@gmail.com",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7206",
+					"path": [
+						"api",
+						"Users",
+						"rodollopes@gmail.com"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
