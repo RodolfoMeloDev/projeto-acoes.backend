@@ -1,12 +1,12 @@
 using App.Domain.Dtos.BaseTicker;
 using App.Domain.Dtos.FileImport;
-using App.Domain.Dtos.Formula;
 using App.Domain.Dtos.HistoryTicker;
 using App.Domain.Dtos.Sector;
 using App.Domain.Dtos.Segment;
 using App.Domain.Dtos.SubSector;
 using App.Domain.Dtos.Ticker;
 using App.Domain.Dtos.User;
+using App.Domain.Dtos.Wallet;
 using App.Domain.Models;
 using AutoMapper;
 
@@ -58,6 +58,12 @@ namespace App.CrossCutting.Mappings
 
             #region  Base Ticker
             CreateMap<BaseTickerModel, BaseTickerDto>().ReverseMap();
+            #endregion
+
+            #region Wallet
+            CreateMap<WalletModel, WalletDto>().ReverseMap();
+            CreateMap<WalletModel, WalletDtoCreate>().ReverseMap();
+            CreateMap<WalletModel, WalletDtoUpdate>().ReverseMap();
             #endregion
         }
     }

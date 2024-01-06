@@ -18,6 +18,9 @@ namespace App.Data.Context
         public DbSet<FileImportEntity> FileImports { get; set; }
         public DbSet<HistoryTickerEntity> HistoryTickers { get; set; }
         public DbSet<BaseTickerEntity> BaseTickers { get; set; }
+        public DbSet<WalletEntity> Wallets {get; set; }
+        public DbSet<FixedIncomeEntity> FixedIncome { get; set; }
+        public DbSet<HistoryFixedIncomeEntity> HistoryFixedIncome { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

@@ -8,6 +8,7 @@ using App.Domain.Interfaces.Services.Segment;
 using App.Domain.Interfaces.Services.SubSector;
 using App.Domain.Interfaces.Services.Ticker;
 using App.Domain.Interfaces.Services.User;
+using App.Domain.Interfaces.Services.Wallet;
 using App.Domain.Models.FilesImport;
 using App.Service.Services;
 using Microsoft.Extensions.DependencyInjection;
@@ -30,6 +31,7 @@ namespace App.CrossCutting.DependencyInjection
             serviceCollection.AddTransient<IFormulaService, FormulaService>();
             serviceCollection.AddTransient<IBaseTickerService, BaseTickerService>();
             serviceCollection.AddTransient<ILoginService, LoginService>();
+            serviceCollection.AddTransient<IWalletService, WalletService>();
         }
     }
 }

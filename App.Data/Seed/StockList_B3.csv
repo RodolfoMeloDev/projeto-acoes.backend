@@ -1,451 +1,452 @@
 SETOR;SUBSETOR;SEGUIMENTO;BASE_TICKER;EMPRESA
-Petróleo, Gás e Biocombustíveis;Petróleo, Gás e Biocombustíveis;Exploração, Refino e Distribuição;RRRP;3R PETROLEUM
-Petróleo, Gás e Biocombustíveis;Petróleo, Gás e Biocombustíveis;Exploração, Refino e Distribuição;CSAN;COSAN       
-Petróleo, Gás e Biocombustíveis;Petróleo, Gás e Biocombustíveis;Exploração, Refino e Distribuição;DMMO;DOMMO
-Petróleo, Gás e Biocombustíveis;Petróleo, Gás e Biocombustíveis;Exploração, Refino e Distribuição;ENAT;ENAUTA PART
-Petróleo, Gás e Biocombustíveis;Petróleo, Gás e Biocombustíveis;Exploração, Refino e Distribuição;RPMG;PET MANGUINH
-Petróleo, Gás e Biocombustíveis;Petróleo, Gás e Biocombustíveis;Exploração, Refino e Distribuição;PETR;PETROBRAS   
-Petróleo, Gás e Biocombustíveis;Petróleo, Gás e Biocombustíveis;Exploração, Refino e Distribuição;RECV;PETRORECSA 
-Petróleo, Gás e Biocombustíveis;Petróleo, Gás e Biocombustíveis;Exploração, Refino e Distribuição;PRIO;PETRORIO
-Petróleo, Gás e Biocombustíveis;Petróleo, Gás e Biocombustíveis;Exploração, Refino e Distribuição;UGPA;ULTRAPAR    
-Petróleo, Gás e Biocombustíveis;Petróleo, Gás e Biocombustíveis;Exploração, Refino e Distribuição;VBBR;VIBRA
-Petróleo, Gás e Biocombustíveis;Petróleo, Gás e Biocombustíveis;Equipamentos e Serviços;LUPA;LUPATECH    
-Petróleo, Gás e Biocombustíveis;Petróleo, Gás e Biocombustíveis;Equipamentos e Serviços;OPCT;OCEANPACT
-Petróleo, Gás e Biocombustíveis;Petróleo, Gás e Biocombustíveis;Equipamentos e Serviços;OSXB;OSX BRASIL  
-Materiais Básicos;Mineração;Minerais Metálicos;AURA;AURA 360
-Materiais Básicos;Mineração;Minerais Metálicos;BRAP;BRADESPAR   
-Materiais Básicos;Mineração;Minerais Metálicos;CBAV;CBA
-Materiais Básicos;Mineração;Minerais Metálicos;CMIN;CSNMINERACAO
-Materiais Básicos;Mineração;Minerais Metálicos;LTEL;LITEL       
-Materiais Básicos;Mineração;Minerais Metálicos;LTLA;LITELA
-Materiais Básicos;Mineração;Minerais Metálicos;MMXM;MMX MINER   
-Materiais Básicos;Mineração;Minerais Metálicos;VALE;VALE        
-Materiais Básicos;Siderurgia e Metalurgia;Siderurgia;FESA;FERBASA     
-Materiais Básicos;Siderurgia e Metalurgia;Siderurgia;GGBR;GERDAU      
-Materiais Básicos;Siderurgia e Metalurgia;Siderurgia;GOAU;GERDAU MET  
-Materiais Básicos;Siderurgia e Metalurgia;Siderurgia;CSNA;SID NACIONAL
-Materiais Básicos;Siderurgia e Metalurgia;Siderurgia;USIM;USIMINAS    
-Materiais Básicos;Siderurgia e Metalurgia;Artefatos de Ferro e Aço;MGEL;MANGELS INDL
-Materiais Básicos;Siderurgia e Metalurgia;Artefatos de Ferro e Aço;PATI;PANATLANTICA
-Materiais Básicos;Siderurgia e Metalurgia;Artefatos de Ferro e Aço;TKNO;TEKNO       
-Materiais Básicos;Siderurgia e Metalurgia;Artefatos de Cobre;PMAM;PARANAPANEMA
-Materiais Básicos;Químicos;Petroquímicos;BRKM;BRASKEM     
-Materiais Básicos;Químicos;Petroquímicos;DEXP;DEXXOS PAR
-Materiais Básicos;Químicos;Fertilizantes e Defensivos;FHER;FER HERINGER
-Materiais Básicos;Químicos;Fertilizantes e Defensivos;NUTR;NUTRIPLANT  
-Materiais Básicos;Químicos;Fertilizantes e Defensivos;VITT;VITTIA
-Materiais Básicos;Químicos;Químicos Diversos;CRPG;CRISTAL
-Materiais Básicos;Químicos;Químicos Diversos;UNIP;UNIPAR      
-Materiais Básicos;Madeira e Papel;Madeira;DXCO;DEXCO
-Materiais Básicos;Madeira e Papel;Madeira;EUCA;EUCATEX     
-Materiais Básicos;Madeira e Papel;Papel e Celulose;KLBN;KLABIN S/A  
-Materiais Básicos;Madeira e Papel;Papel e Celulose;MSPA;MELHOR SP   
-Materiais Básicos;Madeira e Papel;Papel e Celulose;NEMO;SUZANO HOLD 
-Materiais Básicos;Madeira e Papel;Papel e Celulose;SUZB;SUZANO S.A.
-Materiais Básicos;Embalagens;Embalagens;RANI;IRANI 
-Materiais Básicos;Embalagens;Embalagens;MTIG;METAL IGUACU
-Materiais Básicos;Materiais Diversos;Materiais Diversos;SNSY;SANSUY      
-Bens Industriais;Construção e Engenharia;Produtos para Construção;ETER;ETERNIT     
-Bens Industriais;Construção e Engenharia;Produtos para Construção;HAGA;HAGA S/A    
-Bens Industriais;Construção e Engenharia;Produtos para Construção;PTBL;PORTOBELLO  
-Bens Industriais;Construção e Engenharia;Construção Pesada;AZEV;AZEVEDO     
-Bens Industriais;Construção e Engenharia;Engenharia Consultiva;SOND;SONDOTECNICA
-Bens Industriais;Construção e Engenharia;Engenharia Consultiva;TCNO;TECNOSOLO   
-Bens Industriais;Material de Transporte;Material Aeronáutico e de Defesa;EMBR;EMBRAER     
-Bens Industriais;Material de Transporte;Material Rodoviário;FRAS;FRAS-LE     
-Bens Industriais;Material de Transporte;Material Rodoviário;POMO;MARCOPOLO   
-Bens Industriais;Material de Transporte;Material Rodoviário;RAPT;RANDON PART 
-Bens Industriais;Material de Transporte;Material Rodoviário;RCSL;RECRUSUL    
-Bens Industriais;Material de Transporte;Material Rodoviário;RSUL;RIOSULENSE  
-Bens Industriais;Material de Transporte;Material Rodoviário;TUPY;TUPY        
-Bens Industriais;Material de Transporte;Material Rodoviário;MWET;WETZEL S/A  
-Bens Industriais;Máquinas e Equipamentos;Motores, Compressores e Outros;SHUL;SCHULZ      
-Bens Industriais;Máquinas e Equipamentos;Motores, Compressores e Outros;WEGE;WEG         
-Bens Industriais;Máquinas e Equipamentos;Máq. e Equip. Industriais;EALT;ACO ALTONA  
-Bens Industriais;Máquinas e Equipamentos;Máq. e Equip. Industriais;AERI;AERIS
-Bens Industriais;Máquinas e Equipamentos;Máq. e Equip. Industriais;ARML;ARMAC
-Bens Industriais;Máquinas e Equipamentos;Máq. e Equip. Industriais;BDLL;BARDELLA    
-Bens Industriais;Máquinas e Equipamentos;Máq. e Equip. Industriais;INEP;INEPAR      
-Bens Industriais;Máquinas e Equipamentos;Máq. e Equip. Industriais;KEPL;KEPLER WEBER
-Bens Industriais;Máquinas e Equipamentos;Máq. e Equip. Industriais;FRIO;METALFRIO   
-Bens Industriais;Máquinas e Equipamentos;Máq. e Equip. Industriais;MILS;MILLS       
-Bens Industriais;Máquinas e Equipamentos;Máq. e Equip. Industriais;NORD;NORDON MET  
-Bens Industriais;Máquinas e Equipamentos;Máq. e Equip. Industriais;PTCA;PRATICA
-Bens Industriais;Máquinas e Equipamentos;Máq. e Equip. Industriais;ROMI;ROMI   
-Bens Industriais;Máquinas e Equipamentos;Máq. e Equip. Construção e Agrícolas;MTSA;METISA      
-Bens Industriais;Máquinas e Equipamentos;Armas e Munições;TASA;TAURUS ARMAS
-Bens Industriais;Transporte;Transporte Aéreo;AZUL;AZUL
-Bens Industriais;Transporte;Transporte Aéreo;GOLL;GOL         
-Bens Industriais;Transporte;Transporte Ferroviário;FRRN;ALL NORTE   
-Bens Industriais;Transporte;Transporte Ferroviário;GASC;ALL PAULISTA
-Bens Industriais;Transporte;Transporte Ferroviário;VSPT;FER C ATLANT
-Bens Industriais;Transporte;Transporte Ferroviário;MRSA;MRS LOGIST  
-Bens Industriais;Transporte;Transporte Ferroviário;RAIL;RUMO S.A.
-Bens Industriais;Transporte;Transporte Hidroviário;HBSA;HIDROVIAS
-Bens Industriais;Transporte;Transporte Hidroviário;LOGN;LOG-IN      
-Bens Industriais;Transporte;Transporte Hidroviário;LUXM;TREVISA     
-Bens Industriais;Transporte;Transporte Rodoviário;JSLG;JSL         
-Bens Industriais;Transporte;Transporte Rodoviário;TGMA;TEGMA       
-Bens Industriais;Transporte;Exploração de Rodovias;ANHB;AUTOBAN     
-Bens Industriais;Transporte;Exploração de Rodovias;CCRO;CCR SA      
-Bens Industriais;Transporte;Exploração de Rodovias;RPTA;CONC RAPOSO 
-Bens Industriais;Transporte;Exploração de Rodovias;CRTE;CONC RIO TER
-Bens Industriais;Transporte;Exploração de Rodovias;ASCP;ECOPISTAS   
-Bens Industriais;Transporte;Exploração de Rodovias;ECOR;ECORODOVIAS 
-Bens Industriais;Transporte;Exploração de Rodovias;ECOV;ECOVIAS     
-Bens Industriais;Transporte;Exploração de Rodovias;COLN;ROD COLINAS 
-Bens Industriais;Transporte;Exploração de Rodovias;RDVT;ROD TIETE   
-Bens Industriais;Transporte;Exploração de Rodovias;CRBD;RT BANDEIRAS
-Bens Industriais;Transporte;Exploração de Rodovias;TRIA;TRIANGULOSOL
-Bens Industriais;Transporte;Exploração de Rodovias;TPIS;TRIUNFO PART
-Bens Industriais;Transporte;Exploração de Rodovias;VOES;VIAOESTE    
-Bens Industriais;Transporte;Serviços de Apoio e Armazenagem;AGRU;GRUAIRPORT
-Bens Industriais;Transporte;Serviços de Apoio e Armazenagem;HMOB;HMOBI S.A
-Bens Industriais;Transporte;Serviços de Apoio e Armazenagem;IVPR;INVEPAR     
-Bens Industriais;Transporte;Serviços de Apoio e Armazenagem;PSVM;PORTO VM
-Bens Industriais;Transporte;Serviços de Apoio e Armazenagem;SAIP;SALUS INFRA
-Bens Industriais;Transporte;Serviços de Apoio e Armazenagem;STBP;SANTOS BRP  
-Bens Industriais;Transporte;Serviços de Apoio e Armazenagem;PORT;WILSON SONS 
-Bens Industriais;Serviços Diversos;Serviços Diversos;ATMP;ATMASA
-Bens Industriais;Serviços Diversos;Serviços Diversos;BBML;BBMLOGISTICA
-Bens Industriais;Serviços Diversos;Serviços Diversos;DTCY;DTCOM-DIRECT
-Bens Industriais;Serviços Diversos;Serviços Diversos;ALPK;ESTAPAR
-Bens Industriais;Serviços Diversos;Serviços Diversos;FLEX;FLEX S/A
-Bens Industriais;Serviços Diversos;Serviços Diversos;GGPS;GPS
-Bens Industriais;Serviços Diversos;Serviços Diversos;PRNR;PRINER
-Bens Industriais;Serviços Diversos;Serviços Diversos;SEQL;SEQUOIA LOG
-Bens Industriais;Serviços Diversos;Serviços Diversos;VLID;VALID       
-Bens Industriais;Comércio;Material de Transporte;EPAR;EMBPAR S/A
-Bens Industriais;Comércio;Material de Transporte;MMAQ;MINASMAQUINA
-Bens Industriais;Comércio;Material de Transporte;RBNS;RODOBENS
-Bens Industriais;Comércio;Material de Transporte;WLMM;WLM IND COM 
-Consumo não Cíclico;Agropecuária;Agricultura;TTEN;3TENTOS
-Consumo não Cíclico;Agropecuária;Agricultura;GRAO;AGRIBRASIL
-Consumo não Cíclico;Agropecuária;Agricultura;AGXY;AGROGALAXY
-Consumo não Cíclico;Agropecuária;Agricultura;APTI;ALIPERTI    
-Consumo não Cíclico;Agropecuária;Agricultura;SOJA;BOA SAFRA
-Consumo não Cíclico;Agropecuária;Agricultura;AGRO;BRASILAGRO  
-Consumo não Cíclico;Agropecuária;Agricultura;CTCA;CTC S.A.
-Consumo não Cíclico;Agropecuária;Agricultura;FRTA;POMIFRUTAS
-Consumo não Cíclico;Agropecuária;Agricultura;RAIZ;RAIZEN
-Consumo não Cíclico;Agropecuária;Agricultura;SLCE;SLC AGRICOLA
-Consumo não Cíclico;Agropecuária;Agricultura;LAND;TERRASANTAPA
-Consumo não Cíclico;Alimentos Processados;Açucar e Alcool;JALL;JALLESMACHAD
-Consumo não Cíclico;Alimentos Processados;Açucar e Alcool;RESA;RAIZEN ENERG
-Consumo não Cíclico;Alimentos Processados;Açucar e Alcool;SMTO;SAO MARTINHO
-Consumo não Cíclico;Alimentos Processados;Carnes e Derivados;BRFS;BRF SA   
-Consumo não Cíclico;Alimentos Processados;Carnes e Derivados;BAUH;EXCELSIOR   
-Consumo não Cíclico;Alimentos Processados;Carnes e Derivados;JBSS;JBS         
-Consumo não Cíclico;Alimentos Processados;Carnes e Derivados;MRFG;MARFRIG     
-Consumo não Cíclico;Alimentos Processados;Carnes e Derivados;BEEF;MINERVA     
-Consumo não Cíclico;Alimentos Processados;Carnes e Derivados;MNPR;MINUPAR     
-Consumo não Cíclico;Alimentos Processados;Alimentos Diversos;CAML;CAMIL
-Consumo não Cíclico;Alimentos Processados;Alimentos Diversos;JOPA;JOSAPAR     
-Consumo não Cíclico;Alimentos Processados;Alimentos Diversos;MDIA;M.DIASBRANCO
-Consumo não Cíclico;Alimentos Processados;Alimentos Diversos;ODER;ODERICH     
-Consumo não Cíclico;Bebidas;Cervejas e Refrigerantes;ABEV;AMBEV S/A
-Consumo não Cíclico;Produtos de Uso Pessoal e de Limpeza;Produtos de Uso Pessoal;NTCO;GRUPO NATURA      
-Consumo não Cíclico;Produtos de Uso Pessoal e de Limpeza;Produtos de Limpeza;BOBR;BOMBRIL     
-Consumo não Cíclico;Comércio e Distribuição;Alimentos;ASAI;ASSAI
-Consumo não Cíclico;Comércio e Distribuição;Alimentos;CRFB;CARREFOUR BR
-Consumo não Cíclico;Comércio e Distribuição;Alimentos;GMAT;GRUPO MATEUS
-Consumo não Cíclico;Comércio e Distribuição;Alimentos;PCAR;P.ACUCAR-CBD
-Consumo Cíclico;Construção Civil;Incorporações;AVLL;ALPHAVILLE
-Consumo Cíclico;Construção Civil;Incorporações;CALI;CONST A LIND
-Consumo Cíclico;Construção Civil;Incorporações;CRDE;CR2         
-Consumo Cíclico;Construção Civil;Incorporações;CURY;CURY S/A
-Consumo Cíclico;Construção Civil;Incorporações;CYRE;CYRELA REALT
-Consumo Cíclico;Construção Civil;Incorporações;DIRR;DIRECIONAL  
-Consumo Cíclico;Construção Civil;Incorporações;EVEN;EVEN        
-Consumo Cíclico;Construção Civil;Incorporações;EZTC;EZTEC       
-Consumo Cíclico;Construção Civil;Incorporações;GFSA;GAFISA      
-Consumo Cíclico;Construção Civil;Incorporações;HBOR;HELBOR      
-Consumo Cíclico;Construção Civil;Incorporações;INNT;INTER SA 
-Consumo Cíclico;Construção Civil;Incorporações;JHSF;JHSF PART   
-Consumo Cíclico;Construção Civil;Incorporações;JFEN;JOAO FORTES 
-Consumo Cíclico;Construção Civil;Incorporações;KLAS;KALLAS
-Consumo Cíclico;Construção Civil;Incorporações;LAVV;LAVVI
-Consumo Cíclico;Construção Civil;Incorporações;MELK;MELNICK
-Consumo Cíclico;Construção Civil;Incorporações;MTRE;MITRE REALTY
-Consumo Cíclico;Construção Civil;Incorporações;MDNE;MOURA DUBEUX
-Consumo Cíclico;Construção Civil;Incorporações;MRVE;MRV         
-Consumo Cíclico;Construção Civil;Incorporações;PDGR;PDG REALT   
-Consumo Cíclico;Construção Civil;Incorporações;PLPL;PLANOEPLANO
-Consumo Cíclico;Construção Civil;Incorporações;RDNI;RNI
-Consumo Cíclico;Construção Civil;Incorporações;RSID;ROSSI RESID 
-Consumo Cíclico;Construção Civil;Incorporações;TCSA;TECNISA     
-Consumo Cíclico;Construção Civil;Incorporações;TEGA;TEGRA INCORP
-Consumo Cíclico;Construção Civil;Incorporações;TEND;TENDA
-Consumo Cíclico;Construção Civil;Incorporações;TRIS;TRISUL      
-Consumo Cíclico;Construção Civil;Incorporações;VIVR;VIVER       
-Consumo Cíclico;Tecidos, Vestuário e Calçados;Fios e Tecidos;CEDO;CEDRO       
-Consumo Cíclico;Tecidos, Vestuário e Calçados;Fios e Tecidos;CTNM;COTEMINAS   
-Consumo Cíclico;Tecidos, Vestuário e Calçados;Fios e Tecidos;DOHL;DOHLER      
-Consumo Cíclico;Tecidos, Vestuário e Calçados;Fios e Tecidos;CATA;IND CATAGUAS
-Consumo Cíclico;Tecidos, Vestuário e Calçados;Fios e Tecidos;CTKA;KARSTEN     
-Consumo Cíclico;Tecidos, Vestuário e Calçados;Fios e Tecidos;PTNT;PETTENATI   
-Consumo Cíclico;Tecidos, Vestuário e Calçados;Fios e Tecidos;CTSA;SANTANENSE  
-Consumo Cíclico;Tecidos, Vestuário e Calçados;Fios e Tecidos;SGPS;SPRINGS     
-Consumo Cíclico;Tecidos, Vestuário e Calçados;Fios e Tecidos;TEKA;TEKA        
-Consumo Cíclico;Tecidos, Vestuário e Calçados;Fios e Tecidos;TXRX;TEX RENAUX  
-Consumo Cíclico;Tecidos, Vestuário e Calçados;Vestuário;TFCO;TRACK FIELD
-Consumo Cíclico;Tecidos, Vestuário e Calçados;Calçados;ALPA;ALPARGATAS  
-Consumo Cíclico;Tecidos, Vestuário e Calçados;Calçados;CAMB;CAMBUCI     
-Consumo Cíclico;Tecidos, Vestuário e Calçados;Calçados;GRND;GRENDENE    
-Consumo Cíclico;Tecidos, Vestuário e Calçados;Calçados;VULC;VULCABRAS   
-Consumo Cíclico;Tecidos, Vestuário e Calçados;Acessórios;MNDL;MUNDIAL     
-Consumo Cíclico;Tecidos, Vestuário e Calçados;Acessórios;TECN;TECHNOS     
-Consumo Cíclico;Tecidos, Vestuário e Calçados;Acessórios;VIVA;VIVARA S.A.
-Consumo Cíclico;Utilidades Domésticas;Eletrodomésticos;WHRL;WHIRLPOOL   
-Consumo Cíclico;Utilidades Domésticas;Móveis;UCAS;UNICASA
-Consumo Cíclico;Utilidades Domésticas;Utensílios Domésticos;HETA;HERCULES    
-Consumo Cíclico;Automóveis e Motocicletas;Automóveis e Motocicletas;MYPK;IOCHP-MAXION
-Consumo Cíclico;Automóveis e Motocicletas;Automóveis e Motocicletas;LEVE;METAL LEVE  
-Consumo Cíclico;Automóveis e Motocicletas;Automóveis e Motocicletas;PLAS;PLASCAR PART
-Consumo Cíclico;Hoteis e Restaurantes;Hotelaria;HOOT;HOTEIS OTHON
-Consumo Cíclico;Hoteis e Restaurantes;Restaurante e Similares;BKBR;BK BRASIL
-Consumo Cíclico;Hoteis e Restaurantes;Restaurante e Similares;MEAL;IMC S/A
-Consumo Cíclico;Viagens e Lazer;Bicicletas;BMKS;BIC MONARK  
-Consumo Cíclico;Viagens e Lazer;Brinquedos e Jogos;ESTR;ESTRELA     
-Consumo Cíclico;Viagens e Lazer;Produção de Eventos e Shows;AHEB;SPTURIS     
-Consumo Cíclico;Viagens e Lazer;Produção de Eventos e Shows;SHOW;TIME FOR FUN
-Consumo Cíclico;Viagens e Lazer;Viagens e Turismo;CVCB;CVC BRASIL
-Consumo Cíclico;Viagens e Lazer;Atividades Esportivas;SMFT;SMART FIT
-Consumo Cíclico;Diversos;Serviços Educacionais;ANIM;ANIMA
-Consumo Cíclico;Diversos;Serviços Educacionais;BAHI;BAHEMA      
-Consumo Cíclico;Diversos;Serviços Educacionais;COGN;COGNA ON
-Consumo Cíclico;Diversos;Serviços Educacionais;CSED;CRUZEIRO EDU
-Consumo Cíclico;Diversos;Serviços Educacionais;SEER;SER EDUCA
-Consumo Cíclico;Diversos;Serviços Educacionais;YDUQ;YDUQS PART
-Consumo Cíclico;Diversos;Aluguel de carros;RENT;LOCALIZA    
-Consumo Cíclico;Diversos;Aluguel de carros;MSRO;MAESTROLOC
-Consumo Cíclico;Diversos;Aluguel de carros;MOVI;MOVIDA
-Consumo Cíclico;Diversos;Aluguel de carros;VAMO;VAMOS
-Consumo Cíclico;Diversos;Programas de Fidelização;DOTZ;DOTZ SA
-Consumo Cíclico;Comércio;Tecidos, Vestuário e Calçados;ARZZ;AREZZO CO   
-Consumo Cíclico;Comércio;Tecidos, Vestuário e Calçados;CEAB;CEA MODAS
-Consumo Cíclico;Comércio;Tecidos, Vestuário e Calçados;CGRA;GRAZZIOTIN  
-Consumo Cíclico;Comércio;Tecidos, Vestuário e Calçados;SOMA;GRUPO SOMA
-Consumo Cíclico;Comércio;Tecidos, Vestuário e Calçados;GUAR;GUARARAPES  
-Consumo Cíclico;Comércio;Tecidos, Vestuário e Calçados;LLIS;LE LIS BLANC
-Consumo Cíclico;Comércio;Tecidos, Vestuário e Calçados;AMAR;LOJAS MARISA
-Consumo Cíclico;Comércio;Tecidos, Vestuário e Calçados;LREN;LOJAS RENNER
-Consumo Cíclico;Comércio;Eletrodomésticos;ALLD;ALLIED
-Consumo Cíclico;Comércio;Eletrodomésticos;MGLU;MAGAZ LUIZA 
-Consumo Cíclico;Comércio;Eletrodomésticos;VIIA;VIA
-Consumo Cíclico;Comércio;Produtos Diversos;AMER;AMERICANAS
-Consumo Cíclico;Comércio;Produtos Diversos;ESPA;ESPACOLASER
-Consumo Cíclico;Comércio;Produtos Diversos;SBFG;GRUPO SBF
-Consumo Cíclico;Comércio;Produtos Diversos;LLBI;LE BISCUIT
-Consumo Cíclico;Comércio;Produtos Diversos;PETZ;PETZ
-Consumo Cíclico;Comércio;Produtos Diversos;LJQQ;QUERO-QUERO
-Consumo Cíclico;Comércio;Produtos Diversos;SLED;SARAIVA LIVR
-Saúde;Medicamentos e Outros Produtos;Medicamentos e Outros Produtos;BIOM;BIOMM       
-Saúde;Medicamentos e Outros Produtos;Medicamentos e Outros Produtos;NRTQ;NORTCQUIMICA
-Saúde;Medicamentos e Outros Produtos;Medicamentos e Outros Produtos;OFSA;OUROFINO S/A
-Saúde;Serviços Médico - Hospitalares, Análises e Diagnósticos;Serviços Médico - Hospitalares, Análises e Diagnósticos;AALR;ALLIAR
-Saúde;Serviços Médico - Hospitalares, Análises e Diagnósticos;Serviços Médico - Hospitalares, Análises e Diagnósticos;DASA;DASA        
-Saúde;Serviços Médico - Hospitalares, Análises e Diagnósticos;Serviços Médico - Hospitalares, Análises e Diagnósticos;FLRY;FLEURY      
-Saúde;Serviços Médico - Hospitalares, Análises e Diagnósticos;Serviços Médico - Hospitalares, Análises e Diagnósticos;HAPV;HAPVIDA
-Saúde;Serviços Médico - Hospitalares, Análises e Diagnósticos;Serviços Médico - Hospitalares, Análises e Diagnósticos;PARD;IHPARDINI
-Saúde;Serviços Médico - Hospitalares, Análises e Diagnósticos;Serviços Médico - Hospitalares, Análises e Diagnósticos;KRSA;KORA SAUDE
-Saúde;Serviços Médico - Hospitalares, Análises e Diagnósticos;Serviços Médico - Hospitalares, Análises e Diagnósticos;MATD;MATER DEI
-Saúde;Serviços Médico - Hospitalares, Análises e Diagnósticos;Serviços Médico - Hospitalares, Análises e Diagnósticos;ODPV;ODONTOPREV  
-Saúde;Serviços Médico - Hospitalares, Análises e Diagnósticos;Serviços Médico - Hospitalares, Análises e Diagnósticos;ONCO;ONCOCLINICAS
-Saúde;Serviços Médico - Hospitalares, Análises e Diagnósticos;Serviços Médico - Hospitalares, Análises e Diagnósticos;QUAL;QUALICORP   
-Saúde;Serviços Médico - Hospitalares, Análises e Diagnósticos;Serviços Médico - Hospitalares, Análises e Diagnósticos;RDOR;REDE D OR
-Saúde;Equipamentos;Equipamentos;BALM;BAUMER      
-Saúde;Equipamentos;Equipamentos;LMED;LIFEMED
-Saúde;Comércio e Distribuição;Medicamentos e Outros Produtos;BLAU;BLAU
-Saúde;Comércio e Distribuição;Medicamentos e Outros Produtos;DMVF;D1000VFARMA
-Saúde;Comércio e Distribuição;Medicamentos e Outros Produtos;PNVL;DIMED       
-Saúde;Comércio e Distribuição;Medicamentos e Outros Produtos;HYPE;HYPERA
-Saúde;Comércio e Distribuição;Medicamentos e Outros Produtos;PGMN;PAGUE MENOS
-Saúde;Comércio e Distribuição;Medicamentos e Outros Produtos;PFRM;PROFARMA    
-Saúde;Comércio e Distribuição;Medicamentos e Outros Produtos;RADL;RAIADROGASIL    
-Saúde;Comércio e Distribuição;Medicamentos e Outros Produtos;VVEO;VIVEO
-Tecnologia da Informação;Computadores e Equipamentos;Computadores e Equipamentos;INTB;INTELBRAS
-Tecnologia da Informação;Computadores e Equipamentos;Computadores e Equipamentos;MLAS;MULTILASER
-Tecnologia da Informação;Computadores e Equipamentos;Computadores e Equipamentos;POSI;POSITIVO TEC
-Tecnologia da Informação;Programas e Serviços;Programas e Serviços;BMOB;BEMOBI TECH
-Tecnologia da Informação;Programas e Serviços;Programas e Serviços;BRQB;BRQ
-Tecnologia da Informação;Programas e Serviços;Programas e Serviços;ENJU;ENJOEI
-Tecnologia da Informação;Programas e Serviços;Programas e Serviços;NINJ;GETNINJAS
-Tecnologia da Informação;Programas e Serviços;Programas e Serviços;IFCM;INFRACOMM
-Tecnologia da Informação;Programas e Serviços;Programas e Serviços;LWSA;LOCAWEB
-Tecnologia da Informação;Programas e Serviços;Programas e Serviços;CASH;MELIUZ
-Tecnologia da Informação;Programas e Serviços;Programas e Serviços;MBLY;MOBLY
-Tecnologia da Informação;Programas e Serviços;Programas e Serviços;NGRD;NEOGRID
-Tecnologia da Informação;Programas e Serviços;Programas e Serviços;PDTC;PADTEC
-Tecnologia da Informação;Programas e Serviços;Programas e Serviços;QUSW;QUALITY SOFT
-Tecnologia da Informação;Programas e Serviços;Programas e Serviços;SQIA;SINQIA
-Tecnologia da Informação;Programas e Serviços;Programas e Serviços;TRAD;TC
-Tecnologia da Informação;Programas e Serviços;Programas e Serviços;TOTS;TOTVS       
-Tecnologia da Informação;Programas e Serviços;Programas e Serviços;LVTC;WDC NETWORKS
-Tecnologia da Informação;Programas e Serviços;Programas e Serviços;WEST;WESTWING
-Comunicações;Telecomunicações;Telecomunicações;ALGT;ALGAR TELEC
-Comunicações;Telecomunicações;Telecomunicações;BRIT;BRISANET
-Comunicações;Telecomunicações;Telecomunicações;DESK;DESKTOP
-Comunicações;Telecomunicações;Telecomunicações;OIBR;OI
-Comunicações;Telecomunicações;Telecomunicações;TELB;TELEBRAS    
-Comunicações;Telecomunicações;Telecomunicações;VIVT;TELEF BRASIL
-Comunicações;Telecomunicações;Telecomunicações;TIMS;TIM
-Comunicações;Telecomunicações;Telecomunicações;FIQE;UNIFIQUE
-Comunicações;Mídia;Produção e Difusão de Filmes e Programas;CNSY;CINESYSTEM
-Comunicações;Mídia;Publicidade e Propaganda;ELMD;ELETROMIDIA
-Utilidade Pública;Energia Elétrica;Energia Elétrica;AESB;AES BRASIL
-Utilidade Pública;Energia Elétrica;Energia Elétrica;AESL;AES SUL     
-Utilidade Pública;Energia Elétrica;Energia Elétrica;AESO;AESOPERACOES
-Utilidade Pública;Energia Elétrica;Energia Elétrica;AFLT;AFLUENTE T  
-Utilidade Pública;Energia Elétrica;Energia Elétrica;ALUP;ALUPAR
-Utilidade Pública;Energia Elétrica;Energia Elétrica;CBEE;AMPLA ENERG 
-Utilidade Pública;Energia Elétrica;Energia Elétrica;AURE;AUREN
-Utilidade Pública;Energia Elétrica;Energia Elétrica;CPTE;CACHOEIRA
-Utilidade Pública;Energia Elétrica;Energia Elétrica;CEBR;CEB         
-Utilidade Pública;Energia Elétrica;Energia Elétrica;CEED;CEEE-D      
-Utilidade Pública;Energia Elétrica;Energia Elétrica;EEEL;CEEE-T
-Utilidade Pública;Energia Elétrica;Energia Elétrica;CLSC;CELESC      
-Utilidade Pública;Energia Elétrica;Energia Elétrica;GPAR;CELGPAR     
-Utilidade Pública;Energia Elétrica;Energia Elétrica;CEPE;CELPE       
-Utilidade Pública;Energia Elétrica;Energia Elétrica;CMIG;CEMIG       
-Utilidade Pública;Energia Elétrica;Energia Elétrica;CEEB;COELBA      
-Utilidade Pública;Energia Elétrica;Energia Elétrica;COCE;COELCE      
-Utilidade Pública;Energia Elétrica;Energia Elétrica;COMR;COMERC PAR
-Utilidade Pública;Energia Elétrica;Energia Elétrica;CPLE;COPEL       
-Utilidade Pública;Energia Elétrica;Energia Elétrica;CSRN;COSERN      
-Utilidade Pública;Energia Elétrica;Energia Elétrica;CPFE;CPFL ENERGIA
-Utilidade Pública;Energia Elétrica;Energia Elétrica;CPFG;CPFL GERACAO
-Utilidade Pública;Energia Elétrica;Energia Elétrica;CPFP;CPFL PIRATIN
-Utilidade Pública;Energia Elétrica;Energia Elétrica;CPRE;CPFL RENOVAV
-Utilidade Pública;Energia Elétrica;Energia Elétrica;EBEN;EBE         
-Utilidade Pública;Energia Elétrica;Energia Elétrica;EKTR;ELEKTRO     
-Utilidade Pública;Energia Elétrica;Energia Elétrica;ELET;ELETROBRAS  
-Utilidade Pública;Energia Elétrica;Energia Elétrica;LIPR;ELETROPAR   
-Utilidade Pública;Energia Elétrica;Energia Elétrica;EMAE;EMAE        
-Utilidade Pública;Energia Elétrica;Energia Elétrica;ENBR;ENERGIAS BR 
-Utilidade Pública;Energia Elétrica;Energia Elétrica;ENGI;ENERGISA    
-Utilidade Pública;Energia Elétrica;Energia Elétrica;ENMT;ENERGISA MT
-Utilidade Pública;Energia Elétrica;Energia Elétrica;ENER;ENERSUL     
-Utilidade Pública;Energia Elétrica;Energia Elétrica;ENEV;ENEVA
-Utilidade Pública;Energia Elétrica;Energia Elétrica;EGIE;ENGIE BRASIL
-Utilidade Pública;Energia Elétrica;Energia Elétrica;EQPA;EQTL PARA
-Utilidade Pública;Energia Elétrica;Energia Elétrica;EQMA;EQTLMARANHAO
-Utilidade Pública;Energia Elétrica;Energia Elétrica;EQTL;EQUATORIAL  
-Utilidade Pública;Energia Elétrica;Energia Elétrica;ESCE;ESCELSA     
-Utilidade Pública;Energia Elétrica;Energia Elétrica;FGEN;FGENERGIA
-Utilidade Pública;Energia Elétrica;Energia Elétrica;GEPA;GER PARANAP 
-Utilidade Pública;Energia Elétrica;Energia Elétrica;LIGH;LIGHT       
-Utilidade Pública;Energia Elétrica;Energia Elétrica;LIGT;LIGHT S/A   
-Utilidade Pública;Energia Elétrica;Energia Elétrica;NEOE;NEOENERGIA  
-Utilidade Pública;Energia Elétrica;Energia Elétrica;MEGA;OMEGAENERGIA
-Utilidade Pública;Energia Elétrica;Energia Elétrica;PALF;PAUL F LUZ  
-Utilidade Pública;Energia Elétrica;Energia Elétrica;PRMN;PROMAN      
-Utilidade Pública;Energia Elétrica;Energia Elétrica;REDE;REDE ENERGIA
-Utilidade Pública;Energia Elétrica;Energia Elétrica;RNEW;RENOVA      
-Utilidade Pública;Energia Elétrica;Energia Elétrica;STKF;STATKRAFT
-Utilidade Pública;Energia Elétrica;Energia Elétrica;STEN;STO ANTONIO
-Utilidade Pública;Energia Elétrica;Energia Elétrica;TAEE;TAESA       
-Utilidade Pública;Energia Elétrica;Energia Elétrica;TEPE;TERM. PE III
-Utilidade Pública;Energia Elétrica;Energia Elétrica;TMPE;TERMOPE     
-Utilidade Pública;Energia Elétrica;Energia Elétrica;TRPL;TRAN PAULIST
-Utilidade Pública;Energia Elétrica;Energia Elétrica;UPKP;UPTICK      
-Utilidade Pública;Água e Saneamento;Água e Saneamento;AMBP;AMBIPAR
-Utilidade Pública;Água e Saneamento;Água e Saneamento;CASN;CASAN       
-Utilidade Pública;Água e Saneamento;Água e Saneamento;CSMG;COPASA      
-Utilidade Pública;Água e Saneamento;Água e Saneamento;IGSN;IGUA SA  
-Utilidade Pública;Água e Saneamento;Água e Saneamento;ORVR;ORIZON
-Utilidade Pública;Água e Saneamento;Água e Saneamento;SBSP;SABESP      
-Utilidade Pública;Água e Saneamento;Água e Saneamento;SAPR;SANEPAR     
-Utilidade Pública;Água e Saneamento;Água e Saneamento;SNST;SANESALTO   
-Utilidade Pública;Gás;Gás;CEGR;CEG         
-Utilidade Pública;Gás;Gás;CGAS;COMGAS      
-Utilidade Pública;Gás;Gás;PASS;COMPASS
-Financeiro;Intermediários Financeiros;Bancos;ABCB;ABC BRASIL  
-Financeiro;Intermediários Financeiros;Bancos;RPAD;ALFA HOLDING
-Financeiro;Intermediários Financeiros;Bancos;BRIV;ALFA INVEST 
-Financeiro;Intermediários Financeiros;Bancos;BAZA;AMAZONIA    
-Financeiro;Intermediários Financeiros;Bancos;BMGB;BANCO BMG
-Financeiro;Intermediários Financeiros;Bancos;BPAN;BANCO PAN
-Financeiro;Intermediários Financeiros;Bancos;BGIP;BANESE      
-Financeiro;Intermediários Financeiros;Bancos;BEES;BANESTES    
-Financeiro;Intermediários Financeiros;Bancos;BPAR;BANPARA     
-Financeiro;Intermediários Financeiros;Bancos;BRSR;BANRISUL    
-Financeiro;Intermediários Financeiros;Bancos;BRBI;BR PARTNERS
-Financeiro;Intermediários Financeiros;Bancos;BBDC;BRADESCO    
-Financeiro;Intermediários Financeiros;Bancos;BBAS;BRASIL      
-Financeiro;Intermediários Financeiros;Bancos;BSLI;BRB BANCO   
-Financeiro;Intermediários Financeiros;Bancos;BPAC;BTGP BANCO
-Financeiro;Intermediários Financeiros;Bancos;INBR;INTER CO
-Financeiro;Intermediários Financeiros;Bancos;ITSA;ITAUSA      
-Financeiro;Intermediários Financeiros;Bancos;ITUB;ITAUUNIBANCO
-Financeiro;Intermediários Financeiros;Bancos;BMEB;MERC BRASIL 
-Financeiro;Intermediários Financeiros;Bancos;BMIN;MERC INVEST 
-Financeiro;Intermediários Financeiros;Bancos;MODL;MODALMAIS
-Financeiro;Intermediários Financeiros;Bancos;BNBR;NORD BRASIL 
-Financeiro;Intermediários Financeiros;Bancos;NUBR;NU-NUBANK
-Financeiro;Intermediários Financeiros;Bancos;PINE;PINE        
-Financeiro;Intermediários Financeiros;Bancos;SANB;SANTANDER BR
-Financeiro;Intermediários Financeiros;Soc. Crédito e Financiamento;CRIV;ALFA FINANC 
-Financeiro;Intermediários Financeiros;Soc. Crédito e Financiamento;DMFN;DMFINANCEIRA
-Financeiro;Intermediários Financeiros;Soc. Crédito e Financiamento;MERC;MERC FINANC 
-Financeiro;Intermediários Financeiros;Soc. Arrendamento Mercantil;BDLS;BRADESCO LSG
-Financeiro;Intermediários Financeiros;Soc. Arrendamento Mercantil;DBEN;DIBENS LSG  
-Financeiro;Securitizadoras de Recebíveis;Securitizadoras de Recebíveis;BZRS;BRAZIL REALT
-Financeiro;Securitizadoras de Recebíveis;Securitizadoras de Recebíveis;BSCS;BRAZILIAN SC
-Financeiro;Securitizadoras de Recebíveis;Securitizadoras de Recebíveis;CBSC;CIBRASEC
-Financeiro;Securitizadoras de Recebíveis;Securitizadoras de Recebíveis;GAFL;GAIA AGRO   
-Financeiro;Securitizadoras de Recebíveis;Securitizadoras de Recebíveis;GAIA;GAIA SECURIT
-Financeiro;Securitizadoras de Recebíveis;Securitizadoras de Recebíveis;OCTS;OCTANTE SEC
-Financeiro;Securitizadoras de Recebíveis;Securitizadoras de Recebíveis;PDGS;PDG SECURIT 
-Financeiro;Securitizadoras de Recebíveis;Securitizadoras de Recebíveis;PLSC;POLO CAP SEC
-Financeiro;Securitizadoras de Recebíveis;Securitizadoras de Recebíveis;RBRA;RBCAPITALRES
-Financeiro;Securitizadoras de Recebíveis;Securitizadoras de Recebíveis;APCS;TRUESEC
-Financeiro;Securitizadoras de Recebíveis;Securitizadoras de Recebíveis;VERT;VERTCIASEC
-Financeiro;Securitizadoras de Recebíveis;Securitizadoras de Recebíveis;WTPI;WTORRE PIC  
-Financeiro;Serviços Financeiros Diversos;Gestão de Recursos e Investimentos;BNDP;BNDESPAR    
-Financeiro;Serviços Financeiros Diversos;Gestão de Recursos e Investimentos;BFRE;BRAZILIAN FR
-Financeiro;Serviços Financeiros Diversos;Gestão de Recursos e Investimentos;G2DI;G2D INVEST
-Financeiro;Serviços Financeiros Diversos;Gestão de Recursos e Investimentos;GPIV;GP INVEST   
-Financeiro;Serviços Financeiros Diversos;Gestão de Recursos e Investimentos;PPLA;PPLA
-Financeiro;Serviços Financeiros Diversos;Serviços Financeiros Diversos;B3SA;B3 
-Financeiro;Serviços Financeiros Diversos;Serviços Financeiros Diversos;BOAS;BOA VISTA
-Financeiro;Serviços Financeiros Diversos;Serviços Financeiros Diversos;CIEL;CIELO       
-Financeiro;Serviços Financeiros Diversos;Serviços Financeiros Diversos;CLSA;CLEARSALE
-Financeiro;Serviços Financeiros Diversos;Serviços Financeiros Diversos;CSUD;CSU DIGITAL
-Financeiro;Serviços Financeiros Diversos;Serviços Financeiros Diversos;GETT;GETNET BR
-Financeiro;Serviços Financeiros Diversos;Serviços Financeiros Diversos;STOC;STONE CO
-Financeiro;Serviços Financeiros Diversos;Serviços Financeiros Diversos;XPBR;XP INC
-Financeiro;Previdência e Seguros;Seguradoras;BRGE;ALFA CONSORC
-Financeiro;Previdência e Seguros;Seguradoras;BBSE;BBSEGURIDADE
-Financeiro;Previdência e Seguros;Seguradoras;CXSE;CAIXA SEGURI
-Financeiro;Previdência e Seguros;Seguradoras;PSSA;PORTO SEGURO
-Financeiro;Previdência e Seguros;Seguradoras;CSAB;SEG AL BAHIA
-Financeiro;Previdência e Seguros;Seguradoras;SULA;SUL AMERICA 
-Financeiro;Previdência e Seguros;Resseguradoras;IRBR;IRBBRASIL RE
-Financeiro;Previdência e Seguros;Corretoras de Seguros e Resseguros;APER;ALPER S.A.
-Financeiro;Previdência e Seguros;Corretoras de Seguros e Resseguros;WIZC;WIZ S.A.
-Financeiro;Exploração de Imóveis;Exploração de Imóveis;ALSO;ALIANSCSONAE
-Financeiro;Exploração de Imóveis;Exploração de Imóveis;BRML;BR MALLS PAR
-Financeiro;Exploração de Imóveis;Exploração de Imóveis;BRPR;BR PROPERT  
-Financeiro;Exploração de Imóveis;Exploração de Imóveis;CORR;COR RIBEIRO 
-Financeiro;Exploração de Imóveis;Exploração de Imóveis;GSHP;GENERALSHOPP
-Financeiro;Exploração de Imóveis;Exploração de Imóveis;HBTS;HABITASUL   
-Financeiro;Exploração de Imóveis;Exploração de Imóveis;HBRE;HBR REALTY
-Financeiro;Exploração de Imóveis;Exploração de Imóveis;IGBR;IGB S/A     
-Financeiro;Exploração de Imóveis;Exploração de Imóveis;IGTI;IGUATEMI S.A
-Financeiro;Exploração de Imóveis;Exploração de Imóveis;LOGG;LOG COM PROP
-Financeiro;Exploração de Imóveis;Exploração de Imóveis;MNZC;MENEZES CORT
-Financeiro;Exploração de Imóveis;Exploração de Imóveis;MULT;MULTIPLAN   
-Financeiro;Exploração de Imóveis;Exploração de Imóveis;SCAR;SAO CARLOS  
-Financeiro;Exploração de Imóveis;Exploração de Imóveis;SYNE;SYN PROP TEC
-Financeiro;Exploração de Imóveis;Intermediação Imobiliária;LPSB;LOPES BRASIL
-Financeiro;Exploração de Imóveis;Intermediação Imobiliária;NEXP;NEXPE
+Petrï¿½leo, Gï¿½s e Biocombustï¿½veis;Petrï¿½leo, Gï¿½s e Biocombustï¿½veis;Exploraï¿½ï¿½o, Refino e Distribuiï¿½ï¿½o;RRRP;3R PETROLEUM
+Petrï¿½leo, Gï¿½s e Biocombustï¿½veis;Petrï¿½leo, Gï¿½s e Biocombustï¿½veis;Exploraï¿½ï¿½o, Refino e Distribuiï¿½ï¿½o;CSAN;COSAN       
+Petrï¿½leo, Gï¿½s e Biocombustï¿½veis;Petrï¿½leo, Gï¿½s e Biocombustï¿½veis;Exploraï¿½ï¿½o, Refino e Distribuiï¿½ï¿½o;DMMO;DOMMO
+Petrï¿½leo, Gï¿½s e Biocombustï¿½veis;Petrï¿½leo, Gï¿½s e Biocombustï¿½veis;Exploraï¿½ï¿½o, Refino e Distribuiï¿½ï¿½o;ENAT;ENAUTA PART
+Petrï¿½leo, Gï¿½s e Biocombustï¿½veis;Petrï¿½leo, Gï¿½s e Biocombustï¿½veis;Exploraï¿½ï¿½o, Refino e Distribuiï¿½ï¿½o;RPMG;PET MANGUINH
+Petrï¿½leo, Gï¿½s e Biocombustï¿½veis;Petrï¿½leo, Gï¿½s e Biocombustï¿½veis;Exploraï¿½ï¿½o, Refino e Distribuiï¿½ï¿½o;PETR;PETROBRAS   
+Petrï¿½leo, Gï¿½s e Biocombustï¿½veis;Petrï¿½leo, Gï¿½s e Biocombustï¿½veis;Exploraï¿½ï¿½o, Refino e Distribuiï¿½ï¿½o;RECV;PETRORECSA 
+Petrï¿½leo, Gï¿½s e Biocombustï¿½veis;Petrï¿½leo, Gï¿½s e Biocombustï¿½veis;Exploraï¿½ï¿½o, Refino e Distribuiï¿½ï¿½o;PRIO;PETRORIO
+Petrï¿½leo, Gï¿½s e Biocombustï¿½veis;Petrï¿½leo, Gï¿½s e Biocombustï¿½veis;Exploraï¿½ï¿½o, Refino e Distribuiï¿½ï¿½o;UGPA;ULTRAPAR    
+Petrï¿½leo, Gï¿½s e Biocombustï¿½veis;Petrï¿½leo, Gï¿½s e Biocombustï¿½veis;Exploraï¿½ï¿½o, Refino e Distribuiï¿½ï¿½o;VBBR;VIBRA
+Petrï¿½leo, Gï¿½s e Biocombustï¿½veis;Petrï¿½leo, Gï¿½s e Biocombustï¿½veis;Equipamentos e Serviï¿½os;LUPA;LUPATECH    
+Petrï¿½leo, Gï¿½s e Biocombustï¿½veis;Petrï¿½leo, Gï¿½s e Biocombustï¿½veis;Equipamentos e Serviï¿½os;OPCT;OCEANPACT
+Petrï¿½leo, Gï¿½s e Biocombustï¿½veis;Petrï¿½leo, Gï¿½s e Biocombustï¿½veis;Equipamentos e Serviï¿½os;OSXB;OSX BRASIL  
+Materiais Bï¿½sicos;Mineraï¿½ï¿½o;Minerais Metï¿½licos;AURA;AURA 360
+Materiais Bï¿½sicos;Mineraï¿½ï¿½o;Minerais Metï¿½licos;BRAP;BRADESPAR   
+Materiais Bï¿½sicos;Mineraï¿½ï¿½o;Minerais Metï¿½licos;CBAV;CBA
+Materiais Bï¿½sicos;Mineraï¿½ï¿½o;Minerais Metï¿½licos;CMIN;CSNMINERACAO
+Materiais Bï¿½sicos;Mineraï¿½ï¿½o;Minerais Metï¿½licos;LTEL;LITEL       
+Materiais Bï¿½sicos;Mineraï¿½ï¿½o;Minerais Metï¿½licos;LTLA;LITELA
+Materiais Bï¿½sicos;Mineraï¿½ï¿½o;Minerais Metï¿½licos;MMXM;MMX MINER   
+Materiais Bï¿½sicos;Mineraï¿½ï¿½o;Minerais Metï¿½licos;VALE;VALE        
+Materiais Bï¿½sicos;Siderurgia e Metalurgia;Siderurgia;FESA;FERBASA     
+Materiais Bï¿½sicos;Siderurgia e Metalurgia;Siderurgia;GGBR;GERDAU      
+Materiais Bï¿½sicos;Siderurgia e Metalurgia;Siderurgia;GOAU;GERDAU MET  
+Materiais Bï¿½sicos;Siderurgia e Metalurgia;Siderurgia;CSNA;SID NACIONAL
+Materiais Bï¿½sicos;Siderurgia e Metalurgia;Siderurgia;USIM;USIMINAS    
+Materiais Bï¿½sicos;Siderurgia e Metalurgia;Artefatos de Ferro e Aï¿½o;MGEL;MANGELS INDL
+Materiais Bï¿½sicos;Siderurgia e Metalurgia;Artefatos de Ferro e Aï¿½o;PATI;PANATLANTICA
+Materiais Bï¿½sicos;Siderurgia e Metalurgia;Artefatos de Ferro e Aï¿½o;TKNO;TEKNO       
+Materiais Bï¿½sicos;Siderurgia e Metalurgia;Artefatos de Cobre;PMAM;PARANAPANEMA
+Materiais Bï¿½sicos;Quï¿½micos;Petroquï¿½micos;BRKM;BRASKEM     
+Materiais Bï¿½sicos;Quï¿½micos;Petroquï¿½micos;DEXP;DEXXOS PAR
+Materiais Bï¿½sicos;Quï¿½micos;Fertilizantes e Defensivos;FHER;FER HERINGER
+Materiais Bï¿½sicos;Quï¿½micos;Fertilizantes e Defensivos;NUTR;NUTRIPLANT  
+Materiais Bï¿½sicos;Quï¿½micos;Fertilizantes e Defensivos;VITT;VITTIA
+Materiais Bï¿½sicos;Quï¿½micos;Quï¿½micos Diversos;CRPG;CRISTAL
+Materiais Bï¿½sicos;Quï¿½micos;Quï¿½micos Diversos;UNIP;UNIPAR      
+Materiais Bï¿½sicos;Madeira e Papel;Madeira;DXCO;DEXCO
+Materiais Bï¿½sicos;Madeira e Papel;Madeira;EUCA;EUCATEX     
+Materiais Bï¿½sicos;Madeira e Papel;Papel e Celulose;KLBN;KLABIN S/A  
+Materiais Bï¿½sicos;Madeira e Papel;Papel e Celulose;MSPA;MELHOR SP   
+Materiais Bï¿½sicos;Madeira e Papel;Papel e Celulose;NEMO;SUZANO HOLD 
+Materiais Bï¿½sicos;Madeira e Papel;Papel e Celulose;SUZB;SUZANO S.A.
+Materiais Bï¿½sicos;Embalagens;Embalagens;RANI;IRANI 
+Materiais Bï¿½sicos;Embalagens;Embalagens;MTIG;METAL IGUACU
+Materiais Bï¿½sicos;Materiais Diversos;Materiais Diversos;SNSY;SANSUY      
+Bens Industriais;Construï¿½ï¿½o e Engenharia;Produtos para Construï¿½ï¿½o;ETER;ETERNIT     
+Bens Industriais;Construï¿½ï¿½o e Engenharia;Produtos para Construï¿½ï¿½o;HAGA;HAGA S/A    
+Bens Industriais;Construï¿½ï¿½o e Engenharia;Produtos para Construï¿½ï¿½o;PTBL;PORTOBELLO  
+Bens Industriais;Construï¿½ï¿½o e Engenharia;Construï¿½ï¿½o Pesada;AZEV;AZEVEDO     
+Bens Industriais;Construï¿½ï¿½o e Engenharia;Engenharia Consultiva;SOND;SONDOTECNICA
+Bens Industriais;Construï¿½ï¿½o e Engenharia;Engenharia Consultiva;TCNO;TECNOSOLO   
+Bens Industriais;Material de Transporte;Material Aeronï¿½utico e de Defesa;EMBR;EMBRAER     
+Bens Industriais;Material de Transporte;Material Rodoviï¿½rio;FRAS;FRAS-LE     
+Bens Industriais;Material de Transporte;Material Rodoviï¿½rio;POMO;MARCOPOLO   
+Bens Industriais;Material de Transporte;Material Rodoviï¿½rio;RAPT;RANDON PART 
+Bens Industriais;Material de Transporte;Material Rodoviï¿½rio;RCSL;RECRUSUL    
+Bens Industriais;Material de Transporte;Material Rodoviï¿½rio;RSUL;RIOSULENSE  
+Bens Industriais;Material de Transporte;Material Rodoviï¿½rio;TUPY;TUPY        
+Bens Industriais;Material de Transporte;Material Rodoviï¿½rio;MWET;WETZEL S/A  
+Bens Industriais;Mï¿½quinas e Equipamentos;Motores, Compressores e Outros;SHUL;SCHULZ      
+Bens Industriais;Mï¿½quinas e Equipamentos;Motores, Compressores e Outros;WEGE;WEG         
+Bens Industriais;Mï¿½quinas e Equipamentos;Mï¿½q. e Equip. Industriais;EALT;ACO ALTONA  
+Bens Industriais;Mï¿½quinas e Equipamentos;Mï¿½q. e Equip. Industriais;AERI;AERIS
+Bens Industriais;Mï¿½quinas e Equipamentos;Mï¿½q. e Equip. Industriais;ARML;ARMAC
+Bens Industriais;Mï¿½quinas e Equipamentos;Mï¿½q. e Equip. Industriais;BDLL;BARDELLA    
+Bens Industriais;Mï¿½quinas e Equipamentos;Mï¿½q. e Equip. Industriais;INEP;INEPAR      
+Bens Industriais;Mï¿½quinas e Equipamentos;Mï¿½q. e Equip. Industriais;KEPL;KEPLER WEBER
+Bens Industriais;Mï¿½quinas e Equipamentos;Mï¿½q. e Equip. Industriais;FRIO;METALFRIO   
+Bens Industriais;Mï¿½quinas e Equipamentos;Mï¿½q. e Equip. Industriais;MILS;MILLS       
+Bens Industriais;Mï¿½quinas e Equipamentos;Mï¿½q. e Equip. Industriais;NORD;NORDON MET  
+Bens Industriais;Mï¿½quinas e Equipamentos;Mï¿½q. e Equip. Industriais;PTCA;PRATICA
+Bens Industriais;Mï¿½quinas e Equipamentos;Mï¿½q. e Equip. Industriais;ROMI;ROMI   
+Bens Industriais;Mï¿½quinas e Equipamentos;Mï¿½q. e Equip. Construï¿½ï¿½o e Agrï¿½colas;MTSA;METISA      
+Bens Industriais;Mï¿½quinas e Equipamentos;Armas e Muniï¿½ï¿½es;TASA;TAURUS ARMAS
+Bens Industriais;Transporte;Transporte Aï¿½reo;AZUL;AZUL
+Bens Industriais;Transporte;Transporte Aï¿½reo;GOLL;GOL         
+Bens Industriais;Transporte;Transporte Ferroviï¿½rio;FRRN;ALL NORTE   
+Bens Industriais;Transporte;Transporte Ferroviï¿½rio;GASC;ALL PAULISTA
+Bens Industriais;Transporte;Transporte Ferroviï¿½rio;VSPT;FER C ATLANT
+Bens Industriais;Transporte;Transporte Ferroviï¿½rio;MRSA;MRS LOGIST  
+Bens Industriais;Transporte;Transporte Ferroviï¿½rio;RAIL;RUMO S.A.
+Bens Industriais;Transporte;Transporte Hidroviï¿½rio;HBSA;HIDROVIAS
+Bens Industriais;Transporte;Transporte Hidroviï¿½rio;LOGN;LOG-IN      
+Bens Industriais;Transporte;Transporte Hidroviï¿½rio;LUXM;TREVISA     
+Bens Industriais;Transporte;Transporte Rodoviï¿½rio;JSLG;JSL         
+Bens Industriais;Transporte;Transporte Rodoviï¿½rio;TGMA;TEGMA       
+Bens Industriais;Transporte;Exploraï¿½ï¿½o de Rodovias;ANHB;AUTOBAN     
+Bens Industriais;Transporte;Exploraï¿½ï¿½o de Rodovias;CCRO;CCR SA      
+Bens Industriais;Transporte;Exploraï¿½ï¿½o de Rodovias;RPTA;CONC RAPOSO 
+Bens Industriais;Transporte;Exploraï¿½ï¿½o de Rodovias;CRTE;CONC RIO TER
+Bens Industriais;Transporte;Exploraï¿½ï¿½o de Rodovias;ASCP;ECOPISTAS   
+Bens Industriais;Transporte;Exploraï¿½ï¿½o de Rodovias;ECOR;ECORODOVIAS 
+Bens Industriais;Transporte;Exploraï¿½ï¿½o de Rodovias;ECOV;ECOVIAS     
+Bens Industriais;Transporte;Exploraï¿½ï¿½o de Rodovias;COLN;ROD COLINAS 
+Bens Industriais;Transporte;Exploraï¿½ï¿½o de Rodovias;RDVT;ROD TIETE   
+Bens Industriais;Transporte;Exploraï¿½ï¿½o de Rodovias;CRBD;RT BANDEIRAS
+Bens Industriais;Transporte;Exploraï¿½ï¿½o de Rodovias;TRIA;TRIANGULOSOL
+Bens Industriais;Transporte;Exploraï¿½ï¿½o de Rodovias;TPIS;TRIUNFO PART
+Bens Industriais;Transporte;Exploraï¿½ï¿½o de Rodovias;VOES;VIAOESTE    
+Bens Industriais;Transporte;Serviï¿½os de Apoio e Armazenagem;AGRU;GRUAIRPORT
+Bens Industriais;Transporte;Serviï¿½os de Apoio e Armazenagem;HMOB;HMOBI S.A
+Bens Industriais;Transporte;Serviï¿½os de Apoio e Armazenagem;IVPR;INVEPAR     
+Bens Industriais;Transporte;Serviï¿½os de Apoio e Armazenagem;PSVM;PORTO VM
+Bens Industriais;Transporte;Serviï¿½os de Apoio e Armazenagem;SAIP;SALUS INFRA
+Bens Industriais;Transporte;Serviï¿½os de Apoio e Armazenagem;STBP;SANTOS BRP  
+Bens Industriais;Transporte;Serviï¿½os de Apoio e Armazenagem;PORT;WILSON SONS 
+Bens Industriais;Serviï¿½os Diversos;Serviï¿½os Diversos;ATMP;ATMASA
+Bens Industriais;Serviï¿½os Diversos;Serviï¿½os Diversos;BBML;BBMLOGISTICA
+Bens Industriais;Serviï¿½os Diversos;Serviï¿½os Diversos;DTCY;DTCOM-DIRECT
+Bens Industriais;Serviï¿½os Diversos;Serviï¿½os Diversos;ALPK;ESTAPAR
+Bens Industriais;Serviï¿½os Diversos;Serviï¿½os Diversos;FLEX;FLEX S/A
+Bens Industriais;Serviï¿½os Diversos;Serviï¿½os Diversos;GGPS;GPS
+Bens Industriais;Serviï¿½os Diversos;Serviï¿½os Diversos;PRNR;PRINER
+Bens Industriais;Serviï¿½os Diversos;Serviï¿½os Diversos;SEQL;SEQUOIA LOG
+Bens Industriais;Serviï¿½os Diversos;Serviï¿½os Diversos;VLID;VALID       
+Bens Industriais;Comï¿½rcio;Material de Transporte;EPAR;EMBPAR S/A
+Bens Industriais;Comï¿½rcio;Material de Transporte;MMAQ;MINASMAQUINA
+Bens Industriais;Comï¿½rcio;Material de Transporte;RBNS;RODOBENS
+Bens Industriais;Comï¿½rcio;Material de Transporte;WLMM;WLM IND COM 
+Consumo nï¿½o Cï¿½clico;Agropecuï¿½ria;Agricultura;TTEN;3TENTOS
+Consumo nï¿½o Cï¿½clico;Agropecuï¿½ria;Agricultura;GRAO;AGRIBRASIL
+Consumo nï¿½o Cï¿½clico;Agropecuï¿½ria;Agricultura;AGXY;AGROGALAXY
+Consumo nï¿½o Cï¿½clico;Agropecuï¿½ria;Agricultura;APTI;ALIPERTI    
+Consumo nï¿½o Cï¿½clico;Agropecuï¿½ria;Agricultura;SOJA;BOA SAFRA
+Consumo nï¿½o Cï¿½clico;Agropecuï¿½ria;Agricultura;AGRO;BRASILAGRO  
+Consumo nï¿½o Cï¿½clico;Agropecuï¿½ria;Agricultura;CTCA;CTC S.A.
+Consumo nï¿½o Cï¿½clico;Agropecuï¿½ria;Agricultura;FRTA;POMIFRUTAS
+Consumo nï¿½o Cï¿½clico;Agropecuï¿½ria;Agricultura;RAIZ;RAIZEN
+Consumo nï¿½o Cï¿½clico;Agropecuï¿½ria;Agricultura;SLCE;SLC AGRICOLA
+Consumo nï¿½o Cï¿½clico;Agropecuï¿½ria;Agricultura;LAND;TERRASANTAPA
+Consumo nï¿½o Cï¿½clico;Alimentos Processados;Aï¿½ucar e Alcool;JALL;JALLESMACHAD
+Consumo nï¿½o Cï¿½clico;Alimentos Processados;Aï¿½ucar e Alcool;RESA;RAIZEN ENERG
+Consumo nï¿½o Cï¿½clico;Alimentos Processados;Aï¿½ucar e Alcool;SMTO;SAO MARTINHO
+Consumo nï¿½o Cï¿½clico;Alimentos Processados;Carnes e Derivados;BRFS;BRF SA   
+Consumo nï¿½o Cï¿½clico;Alimentos Processados;Carnes e Derivados;BAUH;EXCELSIOR   
+Consumo nï¿½o Cï¿½clico;Alimentos Processados;Carnes e Derivados;JBSS;JBS         
+Consumo nï¿½o Cï¿½clico;Alimentos Processados;Carnes e Derivados;MRFG;MARFRIG     
+Consumo nï¿½o Cï¿½clico;Alimentos Processados;Carnes e Derivados;BEEF;MINERVA     
+Consumo nï¿½o Cï¿½clico;Alimentos Processados;Carnes e Derivados;MNPR;MINUPAR     
+Consumo nï¿½o Cï¿½clico;Alimentos Processados;Alimentos Diversos;CAML;CAMIL
+Consumo nï¿½o Cï¿½clico;Alimentos Processados;Alimentos Diversos;JOPA;JOSAPAR     
+Consumo nï¿½o Cï¿½clico;Alimentos Processados;Alimentos Diversos;MDIA;M.DIASBRANCO
+Consumo nï¿½o Cï¿½clico;Alimentos Processados;Alimentos Diversos;ODER;ODERICH     
+Consumo nï¿½o Cï¿½clico;Bebidas;Cervejas e Refrigerantes;ABEV;AMBEV S/A
+Consumo nï¿½o Cï¿½clico;Produtos de Uso Pessoal e de Limpeza;Produtos de Uso Pessoal;NTCO;GRUPO NATURA      
+Consumo nï¿½o Cï¿½clico;Produtos de Uso Pessoal e de Limpeza;Produtos de Limpeza;BOBR;BOMBRIL     
+Consumo nï¿½o Cï¿½clico;Comï¿½rcio e Distribuiï¿½ï¿½o;Alimentos;ASAI;ASSAI
+Consumo nï¿½o Cï¿½clico;Comï¿½rcio e Distribuiï¿½ï¿½o;Alimentos;CRFB;CARREFOUR BR
+Consumo nï¿½o Cï¿½clico;Comï¿½rcio e Distribuiï¿½ï¿½o;Alimentos;GMAT;GRUPO MATEUS
+Consumo nï¿½o Cï¿½clico;Comï¿½rcio e Distribuiï¿½ï¿½o;Alimentos;PCAR;P.ACUCAR-CBD
+Consumo Cï¿½clico;Construï¿½ï¿½o Civil;Incorporaï¿½ï¿½es;AVLL;ALPHAVILLE
+Consumo Cï¿½clico;Construï¿½ï¿½o Civil;Incorporaï¿½ï¿½es;CALI;CONST A LIND
+Consumo Cï¿½clico;Construï¿½ï¿½o Civil;Incorporaï¿½ï¿½es;CRDE;CR2         
+Consumo Cï¿½clico;Construï¿½ï¿½o Civil;Incorporaï¿½ï¿½es;CURY;CURY S/A
+Consumo Cï¿½clico;Construï¿½ï¿½o Civil;Incorporaï¿½ï¿½es;CYRE;CYRELA REALT
+Consumo Cï¿½clico;Construï¿½ï¿½o Civil;Incorporaï¿½ï¿½es;DIRR;DIRECIONAL  
+Consumo Cï¿½clico;Construï¿½ï¿½o Civil;Incorporaï¿½ï¿½es;EVEN;EVEN        
+Consumo Cï¿½clico;Construï¿½ï¿½o Civil;Incorporaï¿½ï¿½es;EZTC;EZTEC       
+Consumo Cï¿½clico;Construï¿½ï¿½o Civil;Incorporaï¿½ï¿½es;GFSA;GAFISA      
+Consumo Cï¿½clico;Construï¿½ï¿½o Civil;Incorporaï¿½ï¿½es;HBOR;HELBOR      
+Consumo Cï¿½clico;Construï¿½ï¿½o Civil;Incorporaï¿½ï¿½es;INNT;INTER SA 
+Consumo Cï¿½clico;Construï¿½ï¿½o Civil;Incorporaï¿½ï¿½es;JHSF;JHSF PART   
+Consumo Cï¿½clico;Construï¿½ï¿½o Civil;Incorporaï¿½ï¿½es;JFEN;JOAO FORTES 
+Consumo Cï¿½clico;Construï¿½ï¿½o Civil;Incorporaï¿½ï¿½es;KLAS;KALLAS
+Consumo Cï¿½clico;Construï¿½ï¿½o Civil;Incorporaï¿½ï¿½es;LAVV;LAVVI
+Consumo Cï¿½clico;Construï¿½ï¿½o Civil;Incorporaï¿½ï¿½es;MELK;MELNICK
+Consumo Cï¿½clico;Construï¿½ï¿½o Civil;Incorporaï¿½ï¿½es;MTRE;MITRE REALTY
+Consumo Cï¿½clico;Construï¿½ï¿½o Civil;Incorporaï¿½ï¿½es;MDNE;MOURA DUBEUX
+Consumo Cï¿½clico;Construï¿½ï¿½o Civil;Incorporaï¿½ï¿½es;MRVE;MRV         
+Consumo Cï¿½clico;Construï¿½ï¿½o Civil;Incorporaï¿½ï¿½es;PDGR;PDG REALT   
+Consumo Cï¿½clico;Construï¿½ï¿½o Civil;Incorporaï¿½ï¿½es;PLPL;PLANOEPLANO
+Consumo Cï¿½clico;Construï¿½ï¿½o Civil;Incorporaï¿½ï¿½es;RDNI;RNI
+Consumo Cï¿½clico;Construï¿½ï¿½o Civil;Incorporaï¿½ï¿½es;RSID;ROSSI RESID 
+Consumo Cï¿½clico;Construï¿½ï¿½o Civil;Incorporaï¿½ï¿½es;TCSA;TECNISA     
+Consumo Cï¿½clico;Construï¿½ï¿½o Civil;Incorporaï¿½ï¿½es;TEGA;TEGRA INCORP
+Consumo Cï¿½clico;Construï¿½ï¿½o Civil;Incorporaï¿½ï¿½es;TEND;TENDA
+Consumo Cï¿½clico;Construï¿½ï¿½o Civil;Incorporaï¿½ï¿½es;TRIS;TRISUL      
+Consumo Cï¿½clico;Construï¿½ï¿½o Civil;Incorporaï¿½ï¿½es;VIVR;VIVER       
+Consumo Cï¿½clico;Tecidos, Vestuï¿½rio e Calï¿½ados;Fios e Tecidos;CEDO;CEDRO       
+Consumo Cï¿½clico;Tecidos, Vestuï¿½rio e Calï¿½ados;Fios e Tecidos;CTNM;COTEMINAS   
+Consumo Cï¿½clico;Tecidos, Vestuï¿½rio e Calï¿½ados;Fios e Tecidos;DOHL;DOHLER      
+Consumo Cï¿½clico;Tecidos, Vestuï¿½rio e Calï¿½ados;Fios e Tecidos;CATA;IND CATAGUAS
+Consumo Cï¿½clico;Tecidos, Vestuï¿½rio e Calï¿½ados;Fios e Tecidos;CTKA;KARSTEN     
+Consumo Cï¿½clico;Tecidos, Vestuï¿½rio e Calï¿½ados;Fios e Tecidos;PTNT;PETTENATI   
+Consumo Cï¿½clico;Tecidos, Vestuï¿½rio e Calï¿½ados;Fios e Tecidos;CTSA;SANTANENSE  
+Consumo Cï¿½clico;Tecidos, Vestuï¿½rio e Calï¿½ados;Fios e Tecidos;SGPS;SPRINGS     
+Consumo Cï¿½clico;Tecidos, Vestuï¿½rio e Calï¿½ados;Fios e Tecidos;TEKA;TEKA        
+Consumo Cï¿½clico;Tecidos, Vestuï¿½rio e Calï¿½ados;Fios e Tecidos;TXRX;TEX RENAUX  
+Consumo Cï¿½clico;Tecidos, Vestuï¿½rio e Calï¿½ados;Vestuï¿½rio;TFCO;TRACK FIELD
+Consumo Cï¿½clico;Tecidos, Vestuï¿½rio e Calï¿½ados;Calï¿½ados;ALPA;ALPARGATAS  
+Consumo Cï¿½clico;Tecidos, Vestuï¿½rio e Calï¿½ados;Calï¿½ados;CAMB;CAMBUCI     
+Consumo Cï¿½clico;Tecidos, Vestuï¿½rio e Calï¿½ados;Calï¿½ados;GRND;GRENDENE    
+Consumo Cï¿½clico;Tecidos, Vestuï¿½rio e Calï¿½ados;Calï¿½ados;VULC;VULCABRAS   
+Consumo Cï¿½clico;Tecidos, Vestuï¿½rio e Calï¿½ados;Acessï¿½rios;MNDL;MUNDIAL     
+Consumo Cï¿½clico;Tecidos, Vestuï¿½rio e Calï¿½ados;Acessï¿½rios;TECN;TECHNOS     
+Consumo Cï¿½clico;Tecidos, Vestuï¿½rio e Calï¿½ados;Acessï¿½rios;VIVA;VIVARA S.A.
+Consumo Cï¿½clico;Utilidades Domï¿½sticas;Eletrodomï¿½sticos;WHRL;WHIRLPOOL   
+Consumo Cï¿½clico;Utilidades Domï¿½sticas;Mï¿½veis;UCAS;UNICASA
+Consumo Cï¿½clico;Utilidades Domï¿½sticas;Utensï¿½lios Domï¿½sticos;HETA;HERCULES    
+Consumo Cï¿½clico;Automï¿½veis e Motocicletas;Automï¿½veis e Motocicletas;MYPK;IOCHP-MAXION
+Consumo Cï¿½clico;Automï¿½veis e Motocicletas;Automï¿½veis e Motocicletas;LEVE;METAL LEVE  
+Consumo Cï¿½clico;Automï¿½veis e Motocicletas;Automï¿½veis e Motocicletas;PLAS;PLASCAR PART
+Consumo Cï¿½clico;Hoteis e Restaurantes;Hotelaria;HOOT;HOTEIS OTHON
+Consumo Cï¿½clico;Hoteis e Restaurantes;Restaurante e Similares;BKBR;BK BRASIL
+Consumo Cï¿½clico;Hoteis e Restaurantes;Restaurante e Similares;MEAL;IMC S/A
+Consumo Cï¿½clico;Viagens e Lazer;Bicicletas;BMKS;BIC MONARK  
+Consumo Cï¿½clico;Viagens e Lazer;Brinquedos e Jogos;ESTR;ESTRELA     
+Consumo Cï¿½clico;Viagens e Lazer;Produï¿½ï¿½o de Eventos e Shows;AHEB;SPTURIS     
+Consumo Cï¿½clico;Viagens e Lazer;Produï¿½ï¿½o de Eventos e Shows;SHOW;TIME FOR FUN
+Consumo Cï¿½clico;Viagens e Lazer;Viagens e Turismo;CVCB;CVC BRASIL
+Consumo Cï¿½clico;Viagens e Lazer;Atividades Esportivas;SMFT;SMART FIT
+Consumo Cï¿½clico;Diversos;Serviï¿½os Educacionais;ANIM;ANIMA
+Consumo Cï¿½clico;Diversos;Serviï¿½os Educacionais;BAHI;BAHEMA      
+Consumo Cï¿½clico;Diversos;Serviï¿½os Educacionais;COGN;COGNA ON
+Consumo Cï¿½clico;Diversos;Serviï¿½os Educacionais;CSED;CRUZEIRO EDU
+Consumo Cï¿½clico;Diversos;Serviï¿½os Educacionais;SEER;SER EDUCA
+Consumo Cï¿½clico;Diversos;Serviï¿½os Educacionais;YDUQ;YDUQS PART
+Consumo Cï¿½clico;Diversos;Aluguel de carros;RENT;LOCALIZA    
+Consumo Cï¿½clico;Diversos;Aluguel de carros;MSRO;MAESTROLOC
+Consumo Cï¿½clico;Diversos;Aluguel de carros;MOVI;MOVIDA
+Consumo Cï¿½clico;Diversos;Aluguel de carros;VAMO;VAMOS
+Consumo Cï¿½clico;Diversos;Programas de Fidelizaï¿½ï¿½o;DOTZ;DOTZ SA
+Consumo Cï¿½clico;Comï¿½rcio;Tecidos, Vestuï¿½rio e Calï¿½ados;ARZZ;AREZZO CO   
+Consumo Cï¿½clico;Comï¿½rcio;Tecidos, Vestuï¿½rio e Calï¿½ados;CEAB;CEA MODAS
+Consumo Cï¿½clico;Comï¿½rcio;Tecidos, Vestuï¿½rio e Calï¿½ados;CGRA;GRAZZIOTIN  
+Consumo Cï¿½clico;Comï¿½rcio;Tecidos, Vestuï¿½rio e Calï¿½ados;SOMA;GRUPO SOMA
+Consumo Cï¿½clico;Comï¿½rcio;Tecidos, Vestuï¿½rio e Calï¿½ados;GUAR;GUARARAPES  
+Consumo Cï¿½clico;Comï¿½rcio;Tecidos, Vestuï¿½rio e Calï¿½ados;LLIS;LE LIS BLANC
+Consumo Cï¿½clico;Comï¿½rcio;Tecidos, Vestuï¿½rio e Calï¿½ados;AMAR;LOJAS MARISA
+Consumo Cï¿½clico;Comï¿½rcio;Tecidos, Vestuï¿½rio e Calï¿½ados;LREN;LOJAS RENNER
+Consumo Cï¿½clico;Comï¿½rcio;Eletrodomï¿½sticos;ALLD;ALLIED
+Consumo Cï¿½clico;Comï¿½rcio;Eletrodomï¿½sticos;MGLU;MAGAZ LUIZA 
+Consumo Cï¿½clico;Comï¿½rcio;Eletrodomï¿½sticos;VIIA;VIA
+Consumo Cï¿½clico;Comï¿½rcio;Produtos Diversos;AMER;AMERICANAS
+Consumo Cï¿½clico;Comï¿½rcio;Produtos Diversos;ESPA;ESPACOLASER
+Consumo Cï¿½clico;Comï¿½rcio;Produtos Diversos;SBFG;GRUPO SBF
+Consumo Cï¿½clico;Comï¿½rcio;Produtos Diversos;LLBI;LE BISCUIT
+Consumo Cï¿½clico;Comï¿½rcio;Produtos Diversos;PETZ;PETZ
+Consumo Cï¿½clico;Comï¿½rcio;Produtos Diversos;LJQQ;QUERO-QUERO
+Consumo Cï¿½clico;Comï¿½rcio;Produtos Diversos;SLED;SARAIVA LIVR
+Saï¿½de;Medicamentos e Outros Produtos;Medicamentos e Outros Produtos;BIOM;BIOMM       
+Saï¿½de;Medicamentos e Outros Produtos;Medicamentos e Outros Produtos;NRTQ;NORTCQUIMICA
+Saï¿½de;Medicamentos e Outros Produtos;Medicamentos e Outros Produtos;OFSA;OUROFINO S/A
+Saï¿½de;Serviï¿½os Mï¿½dico - Hospitalares, Anï¿½lises e Diagnï¿½sticos;Serviï¿½os Mï¿½dico - Hospitalares, Anï¿½lises e Diagnï¿½sticos;AALR;ALLIAR
+Saï¿½de;Serviï¿½os Mï¿½dico - Hospitalares, Anï¿½lises e Diagnï¿½sticos;Serviï¿½os Mï¿½dico - Hospitalares, Anï¿½lises e Diagnï¿½sticos;DASA;DASA        
+Saï¿½de;Serviï¿½os Mï¿½dico - Hospitalares, Anï¿½lises e Diagnï¿½sticos;Serviï¿½os Mï¿½dico - Hospitalares, Anï¿½lises e Diagnï¿½sticos;FLRY;FLEURY      
+Saï¿½de;Serviï¿½os Mï¿½dico - Hospitalares, Anï¿½lises e Diagnï¿½sticos;Serviï¿½os Mï¿½dico - Hospitalares, Anï¿½lises e Diagnï¿½sticos;HAPV;HAPVIDA
+Saï¿½de;Serviï¿½os Mï¿½dico - Hospitalares, Anï¿½lises e Diagnï¿½sticos;Serviï¿½os Mï¿½dico - Hospitalares, Anï¿½lises e Diagnï¿½sticos;PARD;IHPARDINI
+Saï¿½de;Serviï¿½os Mï¿½dico - Hospitalares, Anï¿½lises e Diagnï¿½sticos;Serviï¿½os Mï¿½dico - Hospitalares, Anï¿½lises e Diagnï¿½sticos;KRSA;KORA SAUDE
+Saï¿½de;Serviï¿½os Mï¿½dico - Hospitalares, Anï¿½lises e Diagnï¿½sticos;Serviï¿½os Mï¿½dico - Hospitalares, Anï¿½lises e Diagnï¿½sticos;MATD;MATER DEI
+Saï¿½de;Serviï¿½os Mï¿½dico - Hospitalares, Anï¿½lises e Diagnï¿½sticos;Serviï¿½os Mï¿½dico - Hospitalares, Anï¿½lises e Diagnï¿½sticos;ODPV;ODONTOPREV  
+Saï¿½de;Serviï¿½os Mï¿½dico - Hospitalares, Anï¿½lises e Diagnï¿½sticos;Serviï¿½os Mï¿½dico - Hospitalares, Anï¿½lises e Diagnï¿½sticos;ONCO;ONCOCLINICAS
+Saï¿½de;Serviï¿½os Mï¿½dico - Hospitalares, Anï¿½lises e Diagnï¿½sticos;Serviï¿½os Mï¿½dico - Hospitalares, Anï¿½lises e Diagnï¿½sticos;QUAL;QUALICORP   
+Saï¿½de;Serviï¿½os Mï¿½dico - Hospitalares, Anï¿½lises e Diagnï¿½sticos;Serviï¿½os Mï¿½dico - Hospitalares, Anï¿½lises e Diagnï¿½sticos;RDOR;REDE D OR
+Saï¿½de;Equipamentos;Equipamentos;BALM;BAUMER      
+Saï¿½de;Equipamentos;Equipamentos;LMED;LIFEMED
+Saï¿½de;Comï¿½rcio e Distribuiï¿½ï¿½o;Medicamentos e Outros Produtos;BLAU;BLAU
+Saï¿½de;Comï¿½rcio e Distribuiï¿½ï¿½o;Medicamentos e Outros Produtos;DMVF;D1000VFARMA
+Saï¿½de;Comï¿½rcio e Distribuiï¿½ï¿½o;Medicamentos e Outros Produtos;PNVL;DIMED       
+Saï¿½de;Comï¿½rcio e Distribuiï¿½ï¿½o;Medicamentos e Outros Produtos;HYPE;HYPERA
+Saï¿½de;Comï¿½rcio e Distribuiï¿½ï¿½o;Medicamentos e Outros Produtos;PGMN;PAGUE MENOS
+Saï¿½de;Comï¿½rcio e Distribuiï¿½ï¿½o;Medicamentos e Outros Produtos;PFRM;PROFARMA    
+Saï¿½de;Comï¿½rcio e Distribuiï¿½ï¿½o;Medicamentos e Outros Produtos;RADL;RAIADROGASIL    
+Saï¿½de;Comï¿½rcio e Distribuiï¿½ï¿½o;Medicamentos e Outros Produtos;VVEO;VIVEO
+Tecnologia da Informaï¿½ï¿½o;Computadores e Equipamentos;Computadores e Equipamentos;INTB;INTELBRAS
+Tecnologia da Informaï¿½ï¿½o;Computadores e Equipamentos;Computadores e Equipamentos;MLAS;MULTILASER
+Tecnologia da Informaï¿½ï¿½o;Computadores e Equipamentos;Computadores e Equipamentos;POSI;POSITIVO TEC
+Tecnologia da Informaï¿½ï¿½o;Programas e Serviï¿½os;Programas e Serviï¿½os;BMOB;BEMOBI TECH
+Tecnologia da Informaï¿½ï¿½o;Programas e Serviï¿½os;Programas e Serviï¿½os;BRQB;BRQ
+Tecnologia da Informaï¿½ï¿½o;Programas e Serviï¿½os;Programas e Serviï¿½os;ENJU;ENJOEI
+Tecnologia da Informaï¿½ï¿½o;Programas e Serviï¿½os;Programas e Serviï¿½os;NINJ;GETNINJAS
+Tecnologia da Informaï¿½ï¿½o;Programas e Serviï¿½os;Programas e Serviï¿½os;IFCM;INFRACOMM
+Tecnologia da Informaï¿½ï¿½o;Programas e Serviï¿½os;Programas e Serviï¿½os;LWSA;LOCAWEB
+Tecnologia da Informaï¿½ï¿½o;Programas e Serviï¿½os;Programas e Serviï¿½os;CASH;MELIUZ
+Tecnologia da Informaï¿½ï¿½o;Programas e Serviï¿½os;Programas e Serviï¿½os;MBLY;MOBLY
+Tecnologia da Informaï¿½ï¿½o;Programas e Serviï¿½os;Programas e Serviï¿½os;NGRD;NEOGRID
+Tecnologia da Informaï¿½ï¿½o;Programas e Serviï¿½os;Programas e Serviï¿½os;PDTC;PADTEC
+Tecnologia da Informaï¿½ï¿½o;Programas e Serviï¿½os;Programas e Serviï¿½os;QUSW;QUALITY SOFT
+Tecnologia da Informaï¿½ï¿½o;Programas e Serviï¿½os;Programas e Serviï¿½os;SQIA;SINQIA
+Tecnologia da Informaï¿½ï¿½o;Programas e Serviï¿½os;Programas e Serviï¿½os;TRAD;TC
+Tecnologia da Informaï¿½ï¿½o;Programas e Serviï¿½os;Programas e Serviï¿½os;TOTS;TOTVS       
+Tecnologia da Informaï¿½ï¿½o;Programas e Serviï¿½os;Programas e Serviï¿½os;LVTC;WDC NETWORKS
+Tecnologia da Informaï¿½ï¿½o;Programas e Serviï¿½os;Programas e Serviï¿½os;WEST;WESTWING
+Comunicaï¿½ï¿½es;Telecomunicaï¿½ï¿½es;Telecomunicaï¿½ï¿½es;ALGT;ALGAR TELEC
+Comunicaï¿½ï¿½es;Telecomunicaï¿½ï¿½es;Telecomunicaï¿½ï¿½es;BRIT;BRISANET
+Comunicaï¿½ï¿½es;Telecomunicaï¿½ï¿½es;Telecomunicaï¿½ï¿½es;DESK;DESKTOP
+Comunicaï¿½ï¿½es;Telecomunicaï¿½ï¿½es;Telecomunicaï¿½ï¿½es;OIBR;OI
+Comunicaï¿½ï¿½es;Telecomunicaï¿½ï¿½es;Telecomunicaï¿½ï¿½es;TELB;TELEBRAS    
+Comunicaï¿½ï¿½es;Telecomunicaï¿½ï¿½es;Telecomunicaï¿½ï¿½es;VIVT;TELEF BRASIL
+Comunicaï¿½ï¿½es;Telecomunicaï¿½ï¿½es;Telecomunicaï¿½ï¿½es;TIMS;TIM
+Comunicaï¿½ï¿½es;Telecomunicaï¿½ï¿½es;Telecomunicaï¿½ï¿½es;FIQE;UNIFIQUE
+Comunicaï¿½ï¿½es;Mï¿½dia;Produï¿½ï¿½o e Difusï¿½o de Filmes e Programas;CNSY;CINESYSTEM
+Comunicaï¿½ï¿½es;Mï¿½dia;Publicidade e Propaganda;ELMD;ELETROMIDIA
+Utilidade Pï¿½blica;Energia Elï¿½trica;Energia Elï¿½trica;AESB;AES BRASIL
+Utilidade Pï¿½blica;Energia Elï¿½trica;Energia Elï¿½trica;AESL;AES SUL     
+Utilidade Pï¿½blica;Energia Elï¿½trica;Energia Elï¿½trica;AESO;AESOPERACOES
+Utilidade Pï¿½blica;Energia Elï¿½trica;Energia Elï¿½trica;AFLT;AFLUENTE T  
+Utilidade Pï¿½blica;Energia Elï¿½trica;Energia Elï¿½trica;ALUP;ALUPAR
+Utilidade Pï¿½blica;Energia Elï¿½trica;Energia Elï¿½trica;CBEE;AMPLA ENERG 
+Utilidade Pï¿½blica;Energia Elï¿½trica;Energia Elï¿½trica;AURE;AUREN
+Utilidade Pï¿½blica;Energia Elï¿½trica;Energia Elï¿½trica;CPTE;CACHOEIRA
+Utilidade Pï¿½blica;Energia Elï¿½trica;Energia Elï¿½trica;CEBR;CEB         
+Utilidade Pï¿½blica;Energia Elï¿½trica;Energia Elï¿½trica;CEED;CEEE-D      
+Utilidade Pï¿½blica;Energia Elï¿½trica;Energia Elï¿½trica;EEEL;CEEE-T
+Utilidade Pï¿½blica;Energia Elï¿½trica;Energia Elï¿½trica;CLSC;CELESC      
+Utilidade Pï¿½blica;Energia Elï¿½trica;Energia Elï¿½trica;GPAR;CELGPAR     
+Utilidade Pï¿½blica;Energia Elï¿½trica;Energia Elï¿½trica;CEPE;CELPE       
+Utilidade Pï¿½blica;Energia Elï¿½trica;Energia Elï¿½trica;CMIG;CEMIG       
+Utilidade Pï¿½blica;Energia Elï¿½trica;Energia Elï¿½trica;CEEB;COELBA      
+Utilidade Pï¿½blica;Energia Elï¿½trica;Energia Elï¿½trica;COCE;COELCE      
+Utilidade Pï¿½blica;Energia Elï¿½trica;Energia Elï¿½trica;COMR;COMERC PAR
+Utilidade Pï¿½blica;Energia Elï¿½trica;Energia Elï¿½trica;CPLE;COPEL       
+Utilidade Pï¿½blica;Energia Elï¿½trica;Energia Elï¿½trica;CSRN;COSERN      
+Utilidade Pï¿½blica;Energia Elï¿½trica;Energia Elï¿½trica;CPFE;CPFL ENERGIA
+Utilidade Pï¿½blica;Energia Elï¿½trica;Energia Elï¿½trica;CPFG;CPFL GERACAO
+Utilidade Pï¿½blica;Energia Elï¿½trica;Energia Elï¿½trica;CPFP;CPFL PIRATIN
+Utilidade Pï¿½blica;Energia Elï¿½trica;Energia Elï¿½trica;CPRE;CPFL RENOVAV
+Utilidade Pï¿½blica;Energia Elï¿½trica;Energia Elï¿½trica;EBEN;EBE         
+Utilidade Pï¿½blica;Energia Elï¿½trica;Energia Elï¿½trica;EKTR;ELEKTRO     
+Utilidade Pï¿½blica;Energia Elï¿½trica;Energia Elï¿½trica;ELET;ELETROBRAS  
+Utilidade Pï¿½blica;Energia Elï¿½trica;Energia Elï¿½trica;LIPR;ELETROPAR   
+Utilidade Pï¿½blica;Energia Elï¿½trica;Energia Elï¿½trica;EMAE;EMAE        
+Utilidade Pï¿½blica;Energia Elï¿½trica;Energia Elï¿½trica;ENBR;ENERGIAS BR 
+Utilidade Pï¿½blica;Energia Elï¿½trica;Energia Elï¿½trica;ENGI;ENERGISA    
+Utilidade Pï¿½blica;Energia Elï¿½trica;Energia Elï¿½trica;ENMT;ENERGISA MT
+Utilidade Pï¿½blica;Energia Elï¿½trica;Energia Elï¿½trica;ENER;ENERSUL     
+Utilidade Pï¿½blica;Energia Elï¿½trica;Energia Elï¿½trica;ENEV;ENEVA
+Utilidade Pï¿½blica;Energia Elï¿½trica;Energia Elï¿½trica;EGIE;ENGIE BRASIL
+Utilidade Pï¿½blica;Energia Elï¿½trica;Energia Elï¿½trica;EQPA;EQTL PARA
+Utilidade Pï¿½blica;Energia Elï¿½trica;Energia Elï¿½trica;EQMA;EQTLMARANHAO
+Utilidade Pï¿½blica;Energia Elï¿½trica;Energia Elï¿½trica;EQTL;EQUATORIAL  
+Utilidade Pï¿½blica;Energia Elï¿½trica;Energia Elï¿½trica;ESCE;ESCELSA     
+Utilidade Pï¿½blica;Energia Elï¿½trica;Energia Elï¿½trica;FGEN;FGENERGIA
+Utilidade Pï¿½blica;Energia Elï¿½trica;Energia Elï¿½trica;GEPA;GER PARANAP 
+Utilidade Pï¿½blica;Energia Elï¿½trica;Energia Elï¿½trica;LIGH;LIGHT       
+Utilidade Pï¿½blica;Energia Elï¿½trica;Energia Elï¿½trica;LIGT;LIGHT S/A   
+Utilidade Pï¿½blica;Energia Elï¿½trica;Energia Elï¿½trica;NEOE;NEOENERGIA  
+Utilidade Pï¿½blica;Energia Elï¿½trica;Energia Elï¿½trica;MEGA;OMEGAENERGIA
+Utilidade Pï¿½blica;Energia Elï¿½trica;Energia Elï¿½trica;PALF;PAUL F LUZ  
+Utilidade Pï¿½blica;Energia Elï¿½trica;Energia Elï¿½trica;PRMN;PROMAN      
+Utilidade Pï¿½blica;Energia Elï¿½trica;Energia Elï¿½trica;REDE;REDE ENERGIA
+Utilidade Pï¿½blica;Energia Elï¿½trica;Energia Elï¿½trica;RNEW;RENOVA      
+Utilidade Pï¿½blica;Energia Elï¿½trica;Energia Elï¿½trica;STKF;STATKRAFT
+Utilidade Pï¿½blica;Energia Elï¿½trica;Energia Elï¿½trica;STEN;STO ANTONIO
+Utilidade Pï¿½blica;Energia Elï¿½trica;Energia Elï¿½trica;TAEE;TAESA       
+Utilidade Pï¿½blica;Energia Elï¿½trica;Energia Elï¿½trica;TEPE;TERM. PE III
+Utilidade Pï¿½blica;Energia Elï¿½trica;Energia Elï¿½trica;TMPE;TERMOPE     
+Utilidade Pï¿½blica;Energia Elï¿½trica;Energia Elï¿½trica;TRPL;TRAN PAULIST
+Utilidade Pï¿½blica;Energia Elï¿½trica;Energia Elï¿½trica;UPKP;UPTICK      
+Utilidade Pï¿½blica;ï¿½gua e Saneamento;ï¿½gua e Saneamento;AMBP;AMBIPAR
+Utilidade Pï¿½blica;ï¿½gua e Saneamento;ï¿½gua e Saneamento;CASN;CASAN       
+Utilidade Pï¿½blica;ï¿½gua e Saneamento;ï¿½gua e Saneamento;CSMG;COPASA      
+Utilidade Pï¿½blica;ï¿½gua e Saneamento;ï¿½gua e Saneamento;IGSN;IGUA SA  
+Utilidade Pï¿½blica;ï¿½gua e Saneamento;ï¿½gua e Saneamento;ORVR;ORIZON
+Utilidade Pï¿½blica;ï¿½gua e Saneamento;ï¿½gua e Saneamento;SBSP;SABESP      
+Utilidade Pï¿½blica;ï¿½gua e Saneamento;ï¿½gua e Saneamento;SAPR;SANEPAR     
+Utilidade Pï¿½blica;ï¿½gua e Saneamento;ï¿½gua e Saneamento;SNST;SANESALTO   
+Utilidade Pï¿½blica;Gï¿½s;Gï¿½s;CEGR;CEG         
+Utilidade Pï¿½blica;Gï¿½s;Gï¿½s;CGAS;COMGAS      
+Utilidade Pï¿½blica;Gï¿½s;Gï¿½s;PASS;COMPASS
+Financeiro;Intermediï¿½rios Financeiros;Bancos;ABCB;ABC BRASIL  
+Financeiro;Intermediï¿½rios Financeiros;Bancos;RPAD;ALFA HOLDING
+Financeiro;Intermediï¿½rios Financeiros;Bancos;BRIV;ALFA INVEST 
+Financeiro;Intermediï¿½rios Financeiros;Bancos;BAZA;AMAZONIA    
+Financeiro;Intermediï¿½rios Financeiros;Bancos;BMGB;BANCO BMG
+Financeiro;Intermediï¿½rios Financeiros;Bancos;BPAN;BANCO PAN
+Financeiro;Intermediï¿½rios Financeiros;Bancos;BGIP;BANESE      
+Financeiro;Intermediï¿½rios Financeiros;Bancos;BEES;BANESTES    
+Financeiro;Intermediï¿½rios Financeiros;Bancos;BPAR;BANPARA     
+Financeiro;Intermediï¿½rios Financeiros;Bancos;BRSR;BANRISUL    
+Financeiro;Intermediï¿½rios Financeiros;Bancos;BRBI;BR PARTNERS
+Financeiro;Intermediï¿½rios Financeiros;Bancos;BBDC;BRADESCO    
+Financeiro;Intermediï¿½rios Financeiros;Bancos;BBAS;BRASIL      
+Financeiro;Intermediï¿½rios Financeiros;Bancos;BSLI;BRB BANCO   
+Financeiro;Intermediï¿½rios Financeiros;Bancos;BPAC;BTGP BANCO
+Financeiro;Intermediï¿½rios Financeiros;Bancos;INBR;INTER CO
+Financeiro;Intermediï¿½rios Financeiros;Bancos;ITSA;ITAUSA      
+Financeiro;Intermediï¿½rios Financeiros;Bancos;ITUB;ITAUUNIBANCO
+Financeiro;Intermediï¿½rios Financeiros;Bancos;BMEB;MERC BRASIL 
+Financeiro;Intermediï¿½rios Financeiros;Bancos;BMIN;MERC INVEST 
+Financeiro;Intermediï¿½rios Financeiros;Bancos;MODL;MODALMAIS
+Financeiro;Intermediï¿½rios Financeiros;Bancos;BNBR;NORD BRASIL 
+Financeiro;Intermediï¿½rios Financeiros;Bancos;NUBR;NU-NUBANK
+Financeiro;Intermediï¿½rios Financeiros;Bancos;PINE;PINE        
+Financeiro;Intermediï¿½rios Financeiros;Bancos;SANB;SANTANDER BR
+Financeiro;Intermediï¿½rios Financeiros;Soc. Crï¿½dito e Financiamento;CRIV;ALFA FINANC 
+Financeiro;Intermediï¿½rios Financeiros;Soc. Crï¿½dito e Financiamento;DMFN;DMFINANCEIRA
+Financeiro;Intermediï¿½rios Financeiros;Soc. Crï¿½dito e Financiamento;MERC;MERC FINANC 
+Financeiro;Intermediï¿½rios Financeiros;Soc. Arrendamento Mercantil;BDLS;BRADESCO LSG
+Financeiro;Intermediï¿½rios Financeiros;Soc. Arrendamento Mercantil;DBEN;DIBENS LSG  
+Financeiro;Securitizadoras de Recebï¿½veis;Securitizadoras de Recebï¿½veis;BZRS;BRAZIL REALT
+Financeiro;Securitizadoras de Recebï¿½veis;Securitizadoras de Recebï¿½veis;BSCS;BRAZILIAN SC
+Financeiro;Securitizadoras de Recebï¿½veis;Securitizadoras de Recebï¿½veis;CBSC;CIBRASEC
+Financeiro;Securitizadoras de Recebï¿½veis;Securitizadoras de Recebï¿½veis;GAFL;GAIA AGRO   
+Financeiro;Securitizadoras de Recebï¿½veis;Securitizadoras de Recebï¿½veis;GAIA;GAIA SECURIT
+Financeiro;Securitizadoras de Recebï¿½veis;Securitizadoras de Recebï¿½veis;OCTS;OCTANTE SEC
+Financeiro;Securitizadoras de Recebï¿½veis;Securitizadoras de Recebï¿½veis;PDGS;PDG SECURIT 
+Financeiro;Securitizadoras de Recebï¿½veis;Securitizadoras de Recebï¿½veis;PLSC;POLO CAP SEC
+Financeiro;Securitizadoras de Recebï¿½veis;Securitizadoras de Recebï¿½veis;RBRA;RBCAPITALRES
+Financeiro;Securitizadoras de Recebï¿½veis;Securitizadoras de Recebï¿½veis;APCS;TRUESEC
+Financeiro;Securitizadoras de Recebï¿½veis;Securitizadoras de Recebï¿½veis;VERT;VERTCIASEC
+Financeiro;Securitizadoras de Recebï¿½veis;Securitizadoras de Recebï¿½veis;WTPI;WTORRE PIC  
+Financeiro;Serviï¿½os Financeiros Diversos;Gestï¿½o de Recursos e Investimentos;BNDP;BNDESPAR    
+Financeiro;Serviï¿½os Financeiros Diversos;Gestï¿½o de Recursos e Investimentos;BFRE;BRAZILIAN FR
+Financeiro;Serviï¿½os Financeiros Diversos;Gestï¿½o de Recursos e Investimentos;G2DI;G2D INVEST
+Financeiro;Serviï¿½os Financeiros Diversos;Gestï¿½o de Recursos e Investimentos;GPIV;GP INVEST   
+Financeiro;Serviï¿½os Financeiros Diversos;Gestï¿½o de Recursos e Investimentos;PPLA;PPLA
+Financeiro;Serviï¿½os Financeiros Diversos;Serviï¿½os Financeiros Diversos;B3SA;B3 
+Financeiro;Serviï¿½os Financeiros Diversos;Serviï¿½os Financeiros Diversos;BOAS;BOA VISTA
+Financeiro;Serviï¿½os Financeiros Diversos;Serviï¿½os Financeiros Diversos;CIEL;CIELO       
+Financeiro;Serviï¿½os Financeiros Diversos;Serviï¿½os Financeiros Diversos;CLSA;CLEARSALE
+Financeiro;Serviï¿½os Financeiros Diversos;Serviï¿½os Financeiros Diversos;CSUD;CSU DIGITAL
+Financeiro;Serviï¿½os Financeiros Diversos;Serviï¿½os Financeiros Diversos;GETT;GETNET BR
+Financeiro;Serviï¿½os Financeiros Diversos;Serviï¿½os Financeiros Diversos;STOC;STONE CO
+Financeiro;Serviï¿½os Financeiros Diversos;Serviï¿½os Financeiros Diversos;XPBR;XP INC
+Financeiro;Previdï¿½ncia e Seguros;Seguradoras;BRGE;ALFA CONSORC
+Financeiro;Previdï¿½ncia e Seguros;Seguradoras;BBSE;BBSEGURIDADE
+Financeiro;Previdï¿½ncia e Seguros;Seguradoras;CXSE;CAIXA SEGURI
+Financeiro;Previdï¿½ncia e Seguros;Seguradoras;PSSA;PORTO SEGURO
+Financeiro;Previdï¿½ncia e Seguros;Seguradoras;CSAB;SEG AL BAHIA
+Financeiro;Previdï¿½ncia e Seguros;Seguradoras;SULA;SUL AMERICA 
+Financeiro;Previdï¿½ncia e Seguros;Resseguradoras;IRBR;IRBBRASIL RE
+Financeiro;Previdï¿½ncia e Seguros;Corretoras de Seguros e Resseguros;APER;ALPER S.A.
+Financeiro;Previdï¿½ncia e Seguros;Corretoras de Seguros e Resseguros;WIZC;WIZ S.A.
+Financeiro;Exploraï¿½ï¿½o de Imï¿½veis;Exploraï¿½ï¿½o de Imï¿½veis;ALSO;ALIANSCSONAE
+Financeiro;Exploraï¿½ï¿½o de Imï¿½veis;Exploraï¿½ï¿½o de Imï¿½veis;ALOS;ALIANSCSONAE
+Financeiro;Exploraï¿½ï¿½o de Imï¿½veis;Exploraï¿½ï¿½o de Imï¿½veis;BRML;BR MALLS PAR
+Financeiro;Exploraï¿½ï¿½o de Imï¿½veis;Exploraï¿½ï¿½o de Imï¿½veis;BRPR;BR PROPERT  
+Financeiro;Exploraï¿½ï¿½o de Imï¿½veis;Exploraï¿½ï¿½o de Imï¿½veis;CORR;COR RIBEIRO 
+Financeiro;Exploraï¿½ï¿½o de Imï¿½veis;Exploraï¿½ï¿½o de Imï¿½veis;GSHP;GENERALSHOPP
+Financeiro;Exploraï¿½ï¿½o de Imï¿½veis;Exploraï¿½ï¿½o de Imï¿½veis;HBTS;HABITASUL   
+Financeiro;Exploraï¿½ï¿½o de Imï¿½veis;Exploraï¿½ï¿½o de Imï¿½veis;HBRE;HBR REALTY
+Financeiro;Exploraï¿½ï¿½o de Imï¿½veis;Exploraï¿½ï¿½o de Imï¿½veis;IGBR;IGB S/A     
+Financeiro;Exploraï¿½ï¿½o de Imï¿½veis;Exploraï¿½ï¿½o de Imï¿½veis;IGTI;IGUATEMI S.A
+Financeiro;Exploraï¿½ï¿½o de Imï¿½veis;Exploraï¿½ï¿½o de Imï¿½veis;LOGG;LOG COM PROP
+Financeiro;Exploraï¿½ï¿½o de Imï¿½veis;Exploraï¿½ï¿½o de Imï¿½veis;MNZC;MENEZES CORT
+Financeiro;Exploraï¿½ï¿½o de Imï¿½veis;Exploraï¿½ï¿½o de Imï¿½veis;MULT;MULTIPLAN   
+Financeiro;Exploraï¿½ï¿½o de Imï¿½veis;Exploraï¿½ï¿½o de Imï¿½veis;SCAR;SAO CARLOS  
+Financeiro;Exploraï¿½ï¿½o de Imï¿½veis;Exploraï¿½ï¿½o de Imï¿½veis;SYNE;SYN PROP TEC
+Financeiro;Exploraï¿½ï¿½o de Imï¿½veis;Intermediaï¿½ï¿½o Imobiliï¿½ria;LPSB;LOPES BRASIL
+Financeiro;Exploraï¿½ï¿½o de Imï¿½veis;Intermediaï¿½ï¿½o Imobiliï¿½ria;NEXP;NEXPE
 Financeiro;Holdings Diversificadas;Holdings Diversificadas;MOAR;MONT ARANHA 
 Financeiro;Holdings Diversificadas;Holdings Diversificadas;PEAB;PAR AL BAHIA
 Financeiro;Holdings Diversificadas;Holdings Diversificadas;SIMH;SIMPAR
-Financeiro;Outros Títulos;Outros Títulos;CTBA;CEPAC - CTBA
-Financeiro;Outros Títulos;Outros Títulos;MCRJ;CEPAC - MCRJ
-Financeiro;Outros Títulos;Outros Títulos;PMSP;CEPAC - PMSP
+Financeiro;Outros Tï¿½tulos;Outros Tï¿½tulos;CTBA;CEPAC - CTBA
+Financeiro;Outros Tï¿½tulos;Outros Tï¿½tulos;MCRJ;CEPAC - MCRJ
+Financeiro;Outros Tï¿½tulos;Outros Tï¿½tulos;PMSP;CEPAC - PMSP
 Outros;Outros;Outros;QVQP;524 PARTICIP
 Outros;Outros;Outros;ATOM;ATOMPAR
 Outros;Outros;Outros;BLUT;B TECH EQI

@@ -16,6 +16,7 @@ namespace App.CrossCutting.Mappings
             CreateMap<FileImportEntity, FileImportModel>().ReverseMap();
             CreateMap<HistoryTickerEntity, HistoryTickerModel>().ReverseMap();
             CreateMap<BaseTickerEntity, BaseTickerModel>().ReverseMap();
+            CreateMap<WalletEntity, WalletModel>().ReverseMap();
         }
     }
 }
